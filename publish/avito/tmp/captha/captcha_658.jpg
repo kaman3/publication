@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+           <html class=" touch no-app-promo main-page " data-site-name="Avito" data-current-page="main"> <head> <meta charset="utf-8"> <meta name="HandheldFriendly" content="True"> <meta name="MobileOptimized" content="320">
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  
+ <meta name="format-detection" content="telephone=no"> <link href="//www.avito.st/favicon.ico?4dedf6e" rel="shortcut icon" type="image/x-icon" /> <link rel="apple-touch-icon" href="//www.avito.st/s/common/touch-icons/common/apple-touch-icon-57x57-precomposed.png?02ef6db">
+ 
+ <meta name='yandex-verification' content='644125e8499dab40' /> <meta name="google-site-verification" content="e2vOGQosDojMwFsjpm_SSr_jk6ZDDkYemuwco1GmiiI" /> <title>Доска бесплатных объявлений &mdash; Avito. Частные объявления и предложения.</title>
+   <meta name="description" content="Бесплатные объявления на Avito &mdash; подать бесплатные объявления.">
+   <link rel="stylesheet" type="text/css" href="//www.avito.st/s/cc/81b2f559bc1d33169819c9e8830e2183d56b3abf.css?e379805" />    
+</head> <body class="">
+        <header class="b-header"> <h1 class="b-logo"><span class="logo-link"></span></h1> </header>
+   <nav class="b-tabs"> <ul class="tabs-wrapper"> <li class="tab tab-current"> <a href="/rossiya" class="tab-link">Объявления</a> </li> <li class="tab"> <a href="/favorites" class="tab-link">Избранное</a> </li> <li class="tab"> <a href="/profile/login" class="tab-link">Мой кабинет</a> </li> <li class="tab add-item"> <a href="/add" class="tab-link add-item-link button button-transparent button-blue button-large">Подать объявление</a> </li> </ul> </nav>
+ 
+ <section class="b-content-main ">
+   <article class="b-list"> <ul class="list"> <li class="list-item"><a href="/catalog" class="list-link">По всей России</a></li>
+  <li class="list-item">
+  <a href="/catalog/moskva" class="list-link">Москва</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/moskovskaya_oblast" class="list-link">Московская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/catalog/sankt-peterburg" class="list-link">Санкт-Петербург</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/leningradskaya_oblast" class="list-link">Ленинградская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/adygeya" class="list-link">Адыгея</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/altayskiy_kray" class="list-link">Алтайский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/amurskaya_oblast" class="list-link">Амурская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/arhangelskaya_oblast" class="list-link">Архангельская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/astrahanskaya_oblast" class="list-link">Астраханская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/bashkortostan" class="list-link">Башкортостан</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/belgorodskaya_oblast" class="list-link">Белгородская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/bryanskaya_oblast" class="list-link">Брянская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/buryatiya" class="list-link">Бурятия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/vladimirskaya_oblast" class="list-link">Владимирская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/volgogradskaya_oblast" class="list-link">Волгоградская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/vologodskaya_oblast" class="list-link">Вологодская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/voronezhskaya_oblast" class="list-link">Воронежская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/dagestan" class="list-link">Дагестан</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/evreyskaya_ao" class="list-link">Еврейская АО</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/zabaykalskiy_kray" class="list-link">Забайкальский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/ivanovskaya_oblast" class="list-link">Ивановская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/ingushetiya" class="list-link">Ингушетия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/irkutskaya_oblast" class="list-link">Иркутская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kabardino-balkariya" class="list-link">Кабардино-Балкария</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kaliningradskaya_oblast" class="list-link">Калининградская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kalmykiya" class="list-link">Калмыкия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kaluzhskaya_oblast" class="list-link">Калужская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kamchatskiy_kray" class="list-link">Камчатский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/karachaevo-cherkesiya" class="list-link">Карачаево-Черкесия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kareliya" class="list-link">Карелия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kemerovskaya_oblast" class="list-link">Кемеровская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kirovskaya_oblast" class="list-link">Кировская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/komi" class="list-link">Коми</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kostromskaya_oblast" class="list-link">Костромская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/krasnodarskiy_kray" class="list-link">Краснодарский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/krasnoyarskiy_kray" class="list-link">Красноярский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/respublika_krym" class="list-link">Крым</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kurganskaya_oblast" class="list-link">Курганская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/kurskaya_oblast" class="list-link">Курская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/lipetskaya_oblast" class="list-link">Липецкая область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/magadanskaya_oblast" class="list-link">Магаданская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/mariy_el" class="list-link">Марий Эл</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/mordoviya" class="list-link">Мордовия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/murmanskaya_oblast" class="list-link">Мурманская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/nenetskiy_ao" class="list-link">Ненецкий АО</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/nizhegorodskaya_oblast" class="list-link">Нижегородская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/novgorodskaya_oblast" class="list-link">Новгородская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/novosibirskaya_oblast" class="list-link">Новосибирская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/omskaya_oblast" class="list-link">Омская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/orenburgskaya_oblast" class="list-link">Оренбургская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/orlovskaya_oblast" class="list-link">Орловская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/penzenskaya_oblast" class="list-link">Пензенская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/permskiy_kray" class="list-link">Пермский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/primorskiy_kray" class="list-link">Приморский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/pskovskaya_oblast" class="list-link">Псковская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/respublika_altay" class="list-link">Республика Алтай</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/rostovskaya_oblast" class="list-link">Ростовская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/ryazanskaya_oblast" class="list-link">Рязанская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/samarskaya_oblast" class="list-link">Самарская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/saratovskaya_oblast" class="list-link">Саратовская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/sahalinskaya_oblast" class="list-link">Сахалинская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/saha_yakutiya" class="list-link">Саха (Якутия)</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/sverdlovskaya_oblast" class="list-link">Свердловская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/severnaya_osetiya" class="list-link">Северная Осетия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/smolenskaya_oblast" class="list-link">Смоленская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/stavropolskiy_kray" class="list-link">Ставропольский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/tambovskaya_oblast" class="list-link">Тамбовская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/tatarstan" class="list-link">Татарстан</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/tverskaya_oblast" class="list-link">Тверская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/tomskaya_oblast" class="list-link">Томская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/tulskaya_oblast" class="list-link">Тульская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/tyva" class="list-link">Тыва</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/tyumenskaya_oblast" class="list-link">Тюменская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/udmurtiya" class="list-link">Удмуртия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/ulyanovskaya_oblast" class="list-link">Ульяновская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/habarovskiy_kray" class="list-link">Хабаровский край</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/hakasiya" class="list-link">Хакасия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/hanty-mansiyskiy_ao" class="list-link">Ханты-Мансийский АО</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/chelyabinskaya_oblast" class="list-link">Челябинская область</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/chechenskaya_respublika" class="list-link">Чеченская республика</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/chuvashiya" class="list-link">Чувашия</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/chukotskiy_ao" class="list-link">Чукотский АО</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/yamalo-nenetskiy_ao" class="list-link">Ямало-Ненецкий АО</a>
+  </li>
+  <li class="list-item">
+  <a href="/location/yaroslavskaya_oblast" class="list-link">Ярославская область</a>
+  </li>
+  </ul> </article>
+   </section>
+  <footer class="b-footer">
+  <div class="b-switch-version">
+  <ul class="footer-links"> <li class="footer-link-wrapper copyright-link"><a href="/" class="footer-link">Avito</a></li>
+  <li class="footer-link-wrapper full-version-link"><a href="//www.avito.ru?nomobile=1" class="footer-link">Перейти на полную версию</a></li>
+  </ul> </div>
+  </footer>
+   <script src="//www.avito.st/s/cc/0df8f24cc8b994d06e5b2777662c27b3651c2f7f.js?f59b55b"></script>  <script src="//www.avito.st/s/cc/371be10b804fc4406d4c8bcc6ccfd7849cb172b5.js?d7051cd"></script>       
+<div id="code-footer" class="hidden">
+ 
+ <img src="/ga?utmac=MO-20699421-1&amp;utmp=%2Fga_mobile_index%3Fdevice%3Dnomobile&amp;utmr=" style="width: 1px; height: 1px" />
+   
+ <script>
+    (function() {
+ var image = new Image();
+ image.src = [
+ '//counter.yadro.ru/hit;avito',
+ '',
+ '?t26.1',
+ ';r' + escape(document.referrer),
+ ';s' + screen.width + '*' + screen.height + '*' + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth),
+ ';u' + escape(document.URL),
+ ';' + Math.random()
+ ].join('');
+ }());
+   (new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*avito_ru/ru/CP1251/tmsec=avito_main/';
+    (function() {
+ var csid = "F09828",
+ bpid = "avito",
+ script = document.createElement('script'),
+ firstScript = document.getElementsByTagName('script')[0];
+ script.src = "//js.revsci.net/gateway/gw.js?auto=t&csid=" + csid + "&bpid=" + bpid;
+ script.async = true;
+ firstScript.parentNode.insertBefore(script, firstScript);
+ })();
+     
+ avito.tracking.trackCriteo( 10019, 0, [ { event: "viewHome" } ] );
+         
+ var _comscore = _comscore || [];
+ _comscore.push({ c1: "2", c2: "9829393", c4: document.location.href, c5: "location" });
+ (function() {
+ var script = document.createElement('script'),
+ firstScript = document.getElementsByTagName('script')[0];
+ script.async = true;
+ script.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+ firstScript.parentNode.insertBefore(script, firstScript);
+ })();
+     (function(i, s, o, g, r, a, m) {
+ i['GoogleAnalyticsObject'] = r;
+ i[r] = i[r] || function() {
+ (i[r].q = i[r].q || []).push(arguments);
+ };
+ i[r].l = 1 * new Date();
+ a = s.createElement(o);
+ m = s.getElementsByTagName(o)[0];
+ a.async = 1;
+ a.src = g;
+ m.parentNode.insertBefore(a, m);
+ })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ ga('create', 'UA-20699421-2', 'auto');
+ ga('send', 'pageview');
+    (function (document, window, callbackName) {
+ (window[callbackName] = window[callbackName] || []).push(function() {
+ try {
+ window.yaCounter24618824 = new Ya.Metrika({
+ id: 24618824,
+ clickmap: true
+ });
+ } catch(e) { }
+ });
+ var firstScript = document.getElementsByTagName('script')[0],
+ scriptNode = document.createElement('script'),
+ insertFunction = function () {
+ firstScript.parentNode.insertBefore(scriptNode, firstScript);
+ };
+ scriptNode.async = true;
+ scriptNode.src = '//mc.yandex.ru/metrika/watch.js';
+ if (window.opera) {
+ document.addEventListener('DOMContentLoaded', insertFunction, false);
+ } else {
+ insertFunction();
+ }
+ })(document, window, 'yandex_metrika_callbacks');
+  </script>
+   <script>
+ function adsgftw44(result) {};
+ </script> <script src="https://ssp.avito.ru/bidder?v=1&uid=1&impid=1&mid=2&l=c:RU&callback=adsgftw44" async></script>
+ 
+ <noscript> <img src="//mc.yandex.ru/watch/24618824" style="position:absolute; left:-9999px;" alt="" /> <img src="//www.tns-counter.ru/V13a****avito_ru/ru/CP1251/tmsec=avito_main/" width="1" height="1" alt="" /> <img src="https://sb.scorecardresearch.com/p?c1=2&c2=9829393&c4=m.avito.ru%2F&c5=location&cv=2.0&cj=1" /> </noscript> </div>
+      <script src="//www.avito.st/s/cc/fdaa5db5126c454dcc504555bf05d6f6499ac8da.js?1a59305"></script>                  
+<script type="text/plain" id="flurryData">
+ {
+ "theme": "unknown",
+ "environment": {
+ "os" : "",
+ "grade" : "C",
+ "mobile" : "",
+ "browser" : "",
+ "device" : "",
+ "isBot" : "0"
+ },
+ "events": []
+ }
+</script>
+   <script type="text/html" id="noCookieTemplate"> <div class="b-nocookie padding-bottom-double"> <div class="nocookie-wrapper padding-top-double"> <h2 class="nocookie-header main-header padding-top-double">Произошла ошибка</h2> <p class="nocookie-text padding-top">
+ Для продолжения работы включите поддержку cookies в настройках вашего браузера.
+ </p> <div class="button button-blue button-large button-transparent margin-top-double nocookie-button">Я включил поддержку cookies</div> </div> </div> </script>
+</body> </html>

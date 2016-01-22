@@ -1,0 +1,366 @@
+@import "http://webfonts.ru/import/alexander.css";
+@import "http://webfonts.ru/import/ubuntu.css";
+html, body{
+    padding: 0;
+    margin: 0;
+}
+.conteinerBg{
+
+}
+.menuBox{
+  box-shadow: inset 0px -20px 45px #f1f1f1;
+  border: 1px solid #e5e5e5;
+}
+   .menuBg{
+      width: 935px;
+      height: 50px;
+      margin: 0 auto;
+
+   }
+      .logoBg{
+          width: 150px;
+          height: 50px;
+          background: url(/images/logo.png);
+          display: table-cell;
+      }
+          .logoBg a{
+              display: block;
+              width: 100%;
+              height: 100%;
+          }
+      .menuWork{
+          width: 530px;
+          height: 50px;
+          vertical-align: middle;
+          display: table-cell;
+          padding-left: 30px;
+      }
+          .menuWork ul{
+              padding: 0;
+              margin: 0;
+          }
+              .menuWork ul li{
+                  list-style: none;
+                  list-style-type: none;
+                  display: table-cell;
+                  width: 100px;
+                  text-align: center;
+
+              }
+                  .menuWork ul li:last-child{
+
+                  }
+                  .menuWork ul li a{
+                      text-decoration: none;
+                      color: #474747;
+                      font-family: 'ubuntu';
+                      display: block;
+                      padding-top: 17px;
+                      padding-bottom: 18px;
+                      font-size: 14px;
+
+                  }
+                  .menuWork ul li:hover{
+                      background: #206e8e;
+                  }
+
+
+                      .menuWork ul li a:hover{
+                          color: #fff;
+                      }
+      .menuAvtorization{
+          width: 200px;
+          height: 50px;
+          display: table-cell;
+          vertical-align: middle;
+          text-align: center;
+      }
+          .menuAvtorization ul{
+              margin: 0;
+              padding:0;
+          }
+              .menuAvtorization ul li{
+                  list-style: none;
+                  list-style-type: none;
+                  display: inline-block;
+                  padding-left: 10px;
+                  padding-right: 10px;
+
+              }
+                  .menuAvtorization ul li a{
+                      text-decoration: none;
+                      color: #474747;
+                      font-family: 'ubuntu';
+                      display: block;
+                      padding-top: 17px;
+                      padding-bottom: 18px;
+                      font-size: 14px;
+                  }
+                      .menuAvtorization ul li a:hover{
+                          text-decoration: underline;
+                      }
+                          .menuAvtorization ul li:nth-child(2) > a{
+                                color: red;
+
+                          }
+
+.sliderBg{
+    height: 350px;
+    background: url(/images/fonBoxSlider.png);
+}
+    .sliderBoxBg{
+        width: 1000px;
+        height: 350px;
+        margin: 0 auto;
+    }
+        .sliderBg a{
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+.descBgBox{
+    box-shadow: inset 0px 4px 20px #b3b3b3;
+    background: #f9fbfd;
+    padding-bottom: 100px;
+}
+    .descBg{
+        width: 1000px;
+        margin:  0 auto;
+    }
+        .descBg h2{
+            text-align: center;
+            font-family: "ubuntu";
+            font-size: 35px;
+            padding-top: 35px;
+            padding-bottom: 35px;
+            color: #1091e3;
+            border-bottom: 1px solid #9aaac3;
+            text-shadow: 1px 1px 1px #074b72;
+        }
+        .descBg h3{
+            text-align: center;
+            font-family: "ubuntu";
+            font-size: 30px;
+            padding-top: 45px;
+            padding-bottom: 25px;
+            color: #535353;
+        }
+            .descText{
+                width: 445px;
+                display: inline-block;
+                padding: 10px;
+                vertical-align: top;
+                margin-top: 40px;
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+                .descText ul{
+                    padding: 0;
+                    margin: 0;
+                }
+                    .descText ul li{
+                        margin-bottom: 5px;
+                        font-family: "ubuntu";
+                        font-size: 16px;
+                        line-height: 22px;
+                    }
+            .regBg{
+                width: 300px;
+                padding: 10px;
+                background: #fff532;
+                margin: 0 auto;
+                text-align: center;
+                font-size: 18px;
+                border-radius: 30px;
+                font-family: "ubuntu";
+                margin-top: 60px;
+                border: 1px solid #eee421;
+            }
+                .regBg:hover{
+                    background: #e4da16;
+                    border: 1px solid #dbd114;
+                }
+                .regBg a{
+                    display: block;
+                    width: 100%;
+                    height: 100%;
+                    text-decoration: none;
+                    color: #000;
+                }
+    .tableDescBox{
+
+    }
+        .itemTableDesc{
+            width: 330px;
+            display: inline-block;
+            vertical-align: middle;
+            text-align: center;
+        }
+            .imgItem img{
+                text-align: center;
+            }
+            .itemHeader{
+                text-align: center;
+                font-family: "ubuntu";
+                font-size: 26px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                color: #1091e3;
+
+            }
+            .itemDesc{
+                font-family: "ubuntu";
+                font-size: 16px;
+                text-align: center;
+                color: #252525;
+                width: 200px;
+                margin: 0 auto;
+                line-height: 20px;
+            }
+.promoBoxBg{
+    box-shadow: inset 0px 4px 20px #b3b3b3;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #fff;
+}
+   .promoBox{
+      width: 908px;
+      margin: 0 auto;
+   }
+      .promoBox img{
+          text-align: center;
+      }
+      .promoBox h2{
+          text-align: center;
+          font-family: "ubuntu";
+          font-size: 35px;
+          padding-top: 20px;
+          padding-bottom: 35px;
+          color: #1091e3;
+          border-bottom: 1px solid #9aaac3;
+          text-shadow: 1px 1px 1px #074b72;
+      }
+.footerBg{
+    background: #f1f3f5;
+    border-top: 1px solid #e7e8ea;
+    box-shadow: inset 0px 4px 20px #b3b3b3;
+    height: 40px;
+}
+   .footerBox{
+       width: 980px;
+       margin: 0 auto;
+       padding-top: 12px;
+       padding-bottom: 12px;
+   }
+.sliderBoxBg.loaded img{
+    opacity: 1;
+}
+.sliderBoxBg img{
+
+    opacity: 0;
+    -webkit-transition: opacity .2s;
+    -moz-transition: opacity .2s;
+    -ms-transition: opacity .2s;
+    transition: opacity .2s;
+}
+.ratesBox{
+    padding-top: 50px;
+    vertical-align: top;
+    margin: 0 auto;
+    width: 920px;
+    text-align: center;
+}
+.headerBoxrates{
+    color: #f4307a;
+    font-size: 45px;
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: "ubuntu";
+    text-shadow: 1px 1px 1px #074b72;
+}
+.boxSail{
+    width: 200px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    vertical-align: top;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0px 0px 8px 3px #b3b3b3;
+    cursor: pointer;
+}
+    .boxSail:hover{
+        box-shadow: 0px 0px 8px 3px #f4307a;
+    }
+.sailImg{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sailPrice{
+
+
+    margin-bottom: 20px;
+}
+.saleAdsCount{
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-bottom: 10px;
+    color: #000;
+    font-size: 22px;
+}
+.saleAdsPrice{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #737373;
+    font-size: 14px;
+}
+.sailHeader{
+    margin-top: 10px;
+    font-family: "ubuntu";
+    font-size: 25px;
+}
+.baz{
+    color: #17b443;
+}
+.plan{
+    color: #1091e4;
+}
+.raket{
+    color: #f4307a;
+}
+.vip{
+    color: #000;
+}
+.workBoxs{
+   margin-bottom: 0px;
+}
+   .workBoxsImg, .workBoxsText{
+       display: inline-block;
+       text-align: center;
+       vertical-align: top;
+   }
+       .workBoxsImg{
+           width: 403px;
+           position: relative;
+       }
+       .workBoxsText{
+           width: 500px;
+           font-family: "ubuntu";
+           font-size: 28px;
+           color: #f4307a;
+
+       }
+           .discBt{
+              background: #f8f8f8;
+              border: 1px solid #f4f4f4;
+              border-radius: 3px;
+              color: #424242;
+              font-size: 13px;
+              line-height: 20px;
+              padding: 5px;
+              margin-top: 30px;
+              width: 350px;
+              text-align: left;
+              box-shadow: 0px 0px 8px 3px #b3b3b3;
+           }

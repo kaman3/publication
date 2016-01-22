@@ -1,0 +1,3014 @@
+a:2:{i:0;a:2:{i:0;s:148800:"                    
+      <div class = 'searchBox'>
+   <form action = '' method = 'get'>
+      <!--<input type = 'hidden' name = 'cat' value = ''>-->
+
+      <!--<div class = 'searchBlockFront'>
+           <input type = 'text' name = 'title' placeholder = 'введите заголовок' value = ''>
+      </div>
+       -->
+      <input type = 'hidden' name = 'r' value = 'realtyObject'>
+      <div class = 'searchBlockFront'>
+           <select name = 'cat' id = 'realtyCat'>
+                    <option value = '0'>-- Выберите категорию --</option>
+                                                                                         <option style = 'background:#d9d9d9;'  value = '1'>Квартиры</option>
+                                                                               
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                           <option  value = '7'>Вторичка</option>
+                                 
+                                                                                                           <option  value = '8'>Новостройки</option>
+                                 
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                <option style = 'background:#d9d9d9;'  value = '2'>Комнаты</option>
+                                                                               
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                <option style = 'background:#d9d9d9;'  value = '3'>Аренда жилья</option>
+                                                                               
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                           <option  value = '9'>Долгосрочная</option>
+                                 
+                                                                                                           <option  value = '10'>По суточно  </option>
+                                 
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                <option style = 'background:#d9d9d9;'  value = '4'>Дома, дачи, коттеджи</option>
+                                                                               
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                           <option  value = '11'>Дома</option>
+                                 
+                                                                                                           <option  value = '12'>Дачи</option>
+                                 
+                                                                                                           <option  value = '13'>Коттеджи</option>
+                                 
+                                                                                                           <option  value = '14'>Таунхаусы</option>
+                                 
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                <option style = 'background:#d9d9d9;'  value = '5'>Земельные участки </option>
+                                                                               
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                           <option  value = '15'>Коммерческие земельные участки</option>
+                                 
+                                                                                                           <option  value = '16'>Под индивидуальную застройку</option>
+                                 
+                                                                                                           <option  value = '17'>Участки С/Х назначения </option>
+                                 
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                <option style = 'background:#d9d9d9;'  value = '6'>Коммерческая недвижимость</option>
+                                                                               
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                           <option  value = '18'>Офисы</option>
+                                 
+                                                                                                           <option  value = '19'>Складское помещение</option>
+                                 
+                                                                                                           <option  value = '20'>Торговое помещение  </option>
+                                 
+                                                                                                           <option  value = '21'>Производственное помещение</option>
+                                 
+                                                                                                           <option  value = '22'>Помещение свободного назначения</option>
+                                 
+                                                                                                                <option style = 'background:#d9d9d9;'  value = '23'>Гаражи, Стоянки </option>
+                                                                               
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                                                                                          
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                      </select>
+      </div>
+      <div class = 'searchBlockFront'>
+           <select name = 'city' id = 'city'>
+                    <option value = '0'>-- Выберите город --</option>
+                                                        <option  value = '1'>Башмаково</option>
+                                                        <option  value = '2'>Пенза</option>
+                                                        <option  value = '3'>Белинский</option>
+                                                        <option  value = '4'>Бессоновка</option>
+                                                        <option  value = '5'>Вадинск</option>
+                                                        <option  value = '6'>Городище</option>
+                                                        <option  value = '7'>Земетчино</option>
+                                                        <option  value = '8'>Исса</option>
+                                                        <option  value = '9'>Каменка</option>
+                                                        <option  value = '10'>Русский Камешкир</option>
+                                                        <option  value = '11'>Колышлей</option>
+                                                        <option  value = '12'>Кузнецк</option>
+                                                        <option  value = '13'>Лопатино</option>
+                                                        <option  value = '14'>Лунино</option>
+                                                        <option  value = '15'>Малая Сердоба</option>
+                                                        <option  value = '16'>Мокшан</option>
+                                                        <option  value = '17'>Наровчат</option>
+                                                        <option  value = '18'>Неверкино</option>
+                                                        <option  value = '19'>Нижний Ломов</option>
+                                                        <option  value = '20'>Никольск</option>
+                                                        <option  value = '21'>Пачелма</option>
+                                                        <option  value = '22'>Кондоль</option>
+                                                        <option  value = '23'>Сердобск</option>
+                                                        <option  value = '24'>Сосновоборск</option>
+                                                        <option  value = '25'>Спасск</option>
+                                                        <option  value = '26'>Тамала</option>
+                                                        <option  value = '27'>Шемышейка</option>
+                                                        <option  value = '28'>Беково</option>
+                                                        <option  value = '29'>Заречный</option>
+                                                        <option  value = '30'>Беднодемьяновск</option>
+                                                        <option  value = '31'>Грабово</option>
+                                                        <option  value = '32'>Алферовка</option>
+                                                        <option  value = '33'>Леонидовка</option>
+                                                        <option  value = '34'>Золоторевка</option>
+                                                        <option  value = '35'>Ухтинка</option>
+                                                        <option  value = '36'>Чемодановка</option>
+                                                        <option  value = '37'>Кижеватово</option>
+                                                        <option  value = '38'>Засечное</option>
+                                                        <option  value = '39'>Лебедевка</option>
+                                                        <option  value = '40'>Кривозеровка</option>
+                                                        <option  value = '41'>Богословка</option>
+                                                        <option  value = '42'>Вазерки</option>
+                                                        <option  value = '43'>Рамзай</option>
+                                                        <option  value = '44'>Константиновка</option>
+                                                        <option  value = '45'>Саловка</option>
+                                                        <option  value = '46'>Малая валяевка</option>
+                                                        <option  value = '47'>Лесной</option>
+                                                        <option  value = '48'>Мичурино</option>
+                           </select>
+      </div>
+      <div class = 'searchBlockFront'>
+        <select name = 'districts' id = 'district'>
+                      <option value = '0'>-- Выберите район --</option>
+                                                              <option  value = '1'>Железнодорожный</option>
+                                                              <option  value = '2'>Ленинский</option>
+                                                              <option  value = '3'>Октябрьский</option>
+                                                              <option  value = '4'>Первомайский</option>
+                          </select>
+      </div>
+
+      <div class = 'searchBlockButton'>
+          <input type = 'submit' value = 'Найти'>
+      </div>
+      <!-- это скрытая часть поиска -->
+             <div class = 'noneSearch' style = 'display: block'>
+           <div class = 'searchBlock'>
+              <input type = 'text' name = 'title' placeholder = 'введите заголовок' value = ''>
+           </div>
+           
+           <div class = 'searchBlock'>
+              <div class = 'changeMicrodistroct'>
+                  <div class = 'bottomMicrDis'>
+                       <a href="#" data-reveal-id="myModal">Выбрать микрорайон</a>
+                  </div>
+                  <div class = 'countElementMdistr' style = 'opacity:0;'>0</div>
+              </div>
+              <!-- выпадающеее окно -->
+              <div id="myModal" class="reveal-modal">
+                   <div class = 'boxMicrodistrict'>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '51' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '51' >
+                            <label for='51'>8-Марта, ул.</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '1' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '1' >
+                            <label for='1'>Автовокзал</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '16' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '16' >
+                            <label for='16'>Автодром</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '52' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '52' >
+                            <label for='52'>Арбеково (Запрудный)</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '18' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '18' >
+                            <label for='18'>Арбеково ближнее</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '26' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '26' >
+                            <label for='26'>Арбеково дальнее</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '53' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '53' >
+                            <label for='53'>Арбеково, поселок</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '27' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '27' >
+                            <label for='27'>Арбековская Застава</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '2' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '2' >
+                            <label for='2'>Ахуны</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '29' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '29' >
+                            <label for='29'>Аэропорт</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '3' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '3' >
+                            <label for='3'>Барковка</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '28' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '28' >
+                            <label for='28'>Бригадирский мост</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '17' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '17' >
+                            <label for='17'>Бугровка</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '50' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '50' >
+                            <label for='50'>Буратино, маг-н</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '43' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '43' >
+                            <label for='43'>Веселовка</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '30' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '30' >
+                            <label for='30'>Военный городок</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '19' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '19' >
+                            <label for='19'>Глобус</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '31' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '31' >
+                            <label for='31'>Горизонт</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '4' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '4' >
+                            <label for='4'>ГПЗ-24</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '49' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '49' >
+                            <label for='49'>Дон, магазин</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '24' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '24' >
+                            <label for='24'>Заводской</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '32' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '32' >
+                            <label for='32'>Западная поляна </label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '57' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '57' >
+                            <label for='57'>Заря, совхоз</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '54' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '54' >
+                            <label for='54'>Заря-1, поселок</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '55' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '55' >
+                            <label for='55'>Заря-2, поселок</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '5' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '5' >
+                            <label for='5'>Засурье</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '56' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '56' >
+                            <label for='56'>ЗИФ, поселок</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '46' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '46' >
+                            <label for='46'>КПД (Пенза-4)</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '33' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '33' >
+                            <label for='33'>Кривозерье</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '10' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '10' >
+                            <label for='10'>Маньчжурия</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '6' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '6' >
+                            <label for='6'>Маяк</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '44' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '44' >
+                            <label for='44'>Медпрепараты (Биосинтез)</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '45' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '45' >
+                            <label for='45'>Монтажный, поселок</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '7' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '7' >
+                            <label for='7'>Нахаловка</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '34' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '34' >
+                            <label for='34'>Окружная</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '21' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '21' >
+                            <label for='21'>Памятник Победы</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '36' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '36' >
+                            <label for='36'>ПГУ</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '8' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '8' >
+                            <label for='8'>Пенза-2</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '9' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '9' >
+                            <label for='9'>Пенза-3</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '11' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '11' >
+                            <label for='11'>Пески</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '58' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '58' >
+                            <label for='58'>Побочино, поселок</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '35' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '35' >
+                            <label for='35'>Политехнический</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '20' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '20' >
+                            <label for='20'>Райки</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '25' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '25' >
+                            <label for='25'>Север</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '42' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '42' >
+                            <label for='42'>Совхоз техникум</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '15' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '15' >
+                            <label for='15'>Согласие</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '12' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '12' >
+                            <label for='12'>Сосновка</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '13' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '13' >
+                            <label for='13'>Стрела</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '22' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '22' >
+                            <label for='22'>Суворовский, ТЦ</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '41' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '41' >
+                            <label for='41'>Тамбовская застава</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '37' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '37' >
+                            <label for='37'>Тепличный</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '38' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '38' >
+                            <label for='38'>Терновка</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '47' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '47' >
+                            <label for='47'>Терновка. Гидрострой</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '39' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '39' >
+                            <label for='39'>Терновка. Междуречье</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '48' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '48' >
+                            <label for='48'>Терновка. Спутник</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '23' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '23' >
+                            <label for='23'>Центр</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '14' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '14' >
+                            <label for='14'>Шуист</label>
+                       </div>
+                                                                  <div class = 'itemMCBox'>
+                            <input id = '40' class = 'check' type = 'checkbox' name = 'microdistricts[]' value = '40' >
+                            <label for='40'>Южная поляна</label>
+                       </div>
+                                       </div> <!-- любые теги, любая разметка --> 
+                   <a class="close-reveal-modal">ОK</a>
+              </div>
+           </div>
+
+           <div class = 'searchBlock'>
+              <select name = 'transaction'>
+                    <option value = '0'>-- Выберите тип сделки --</option>
+                                                        <option  value = '1'>Сдам</option>
+                                                        <option  value = '2'>Продам</option>
+                                                        <option  value = '3'>Куплю</option>
+                                                        <option  value = '4'>Сниму</option>
+                              </select>
+           </div>
+
+           <div class = 'searchBlock'>
+              <select name = 'houseTypes'>
+                    <option value = '0'>-- Выберите тип дома --</option>
+                                                        <option  value = '1'>Кирпичный</option>
+                                                        <option  value = '2'>Панельный</option>
+                                                        <option  value = '3'>Блочный</option>
+                                                        <option  value = '4'>Монолитный</option>
+                                                        <option  value = '5'>Деревянный</option>
+                                                        <option  value = '8'>Бревно</option>
+                                                        <option  value = '9'>Комбинированный</option>
+                                                        <option  value = '10'>Брус</option>
+                                                        <option  value = '11'>Металл</option>
+                                                        <option  value = '12'>Пеноблоки</option>
+                                                        <option  value = '13'>Сэндвич-панели</option>
+                              </select>
+           </div>
+
+           <div class = 'searchBlock'>
+                <input type = 'text' name = 'street' placeholder = 'улица' value = ''>
+           </div>
+
+           <div class = 'searchBlock'>
+                <input id = 'phone' type = 'text' name = 'phone' placeholder = 'номер телефона' value = ''>
+           </div>
+ 
+
+          <div class = 'blockS_1'>
+               <div class = 'searchBlock'>
+                  <div class = 'tbSB'>Этажность</div>
+                  <div class = 'tbSB'><input type = 'text' name = 'floor_start' value = '' placeholder = 'от'></div>
+                  <div class = 'tbSB'><input type = 'text' name = 'floor_end' value = '' placeholder = 'до'></div>
+               </div>
+
+               <div class = 'searchBlock'>
+                  <div class = 'tbSB'>Площадь</div>
+                  <div class = 'tbSB'><input type = 'text' name = 'area_start' value = '' placeholder = 'от'></div>
+                  <div class = 'tbSB'><input type = 'text' name = 'area_end' value = '' placeholder = 'до'></div>
+               </div>
+
+          </div>
+
+          <div class = 'blockS_2'>
+               <div class = 'searchBlockPrice'>
+                 <div class = 'tbSB'>Цена</div>
+                 <div class = 'tbSBq'><input id = 'mask' type = 'text' name = 'price_start' value = '' placeholder = 'от'></div>
+                 <div class = 'tbSBq'><input id = 'mask' type = 'text' name = 'price_end' value = '' placeholder = 'до'></div>
+               </div>
+ 
+               
+               <div class = 'searchBlockPrice'>
+                    <div class = 'tbSB'>Комнат</div>
+                                                                                         <div class = 'tbCheck'><input type = 'checkbox' id = 'group_cr' name = 'CountRooms[]' value = '5' >ok</div>
+                                                                                         <div class = 'tbCheck'><input type = 'checkbox' id = 'group_cr' name = 'CountRooms[]' value = '1' >1</div>
+                                                                                         <div class = 'tbCheck'><input type = 'checkbox' id = 'group_cr' name = 'CountRooms[]' value = '2' >2</div>
+                                                                                         <div class = 'tbCheck'><input type = 'checkbox' id = 'group_cr' name = 'CountRooms[]' value = '3' >3</div>
+                                                                                         <div class = 'tbCheck'><input type = 'checkbox' id = 'group_cr' name = 'CountRooms[]' value = '4' >4+</div>
+                                   </div>
+          </div>
+
+          <div class = 'blockS_3'>
+               <div class = 'maps_header'>Карта</div>
+               <div class = 'maps_select'>
+                    <a href="#" data-reveal-id="myModal_maps">Область карты</a>
+                    <div class = 'searchSelectMaps'>очистить</div>
+               </div>
+          </div>
+
+          <div id="myModal_maps" class="reveal-modal-maps">
+               <div class = 'maps_box'>
+                    
+                    <input type= 'button' value = 'Очистить' id = 'removePoligon'/>
+                    <input type="button" value="Сохранить" id="stopEditPolyline"/>
+                    <div id="geometry"></div>
+                    <div id="map" style="width:800px; height:500px"></div>
+                    <div class = 'message' style = 'margin-top:20px;'>
+                         Кликните на карте для начала выделения нужной вам области. Для завершения нажмите на последнюю выделеную точку.
+                    </div>
+                    <a style = 'display:none;' class="close-reveal-modal">ОK</a>
+                    <div class = 'classWindow'><img src = '/images/close.png'></div>
+               </div>
+          </div>
+
+      </div>
+   </form>
+</div>
+<div class = 'buttonViewSearch' id = 'clickSearch'>Расширенный поиск</div>
+
+
+
+      <div class = 'breadcrumbsRealty'>
+	       <ul>
+	                     </ul>
+      </div>
+
+      <div class="menu">
+             <ul>
+             <li>
+          	 <a href = '/index.php?r=realtyObject/index&cat=1' title = 'Квартиры купить, продать в Пензе'>Квартиры</a>
+          	 <span>( 49650 )</span> 
+          </li>
+             <li>
+          	 <a href = '/index.php?r=realtyObject/index&cat=2' title = 'Комнаты купить, продать в Пензе'>Комнаты</a>
+          	 <span>( 6041 )</span> 
+          </li>
+             <li>
+          	 <a href = '/index.php?r=realtyObject/index&cat=3' title = 'Аренда жилья купить, продать в Пензе'>Аренда жилья</a>
+          	 <span>( 13594 )</span> 
+          </li>
+             <li>
+          	 <a href = '/index.php?r=realtyObject/index&cat=4' title = 'Дома, дачи, коттеджи купить, продать в Пензе'>Дома, дачи, коттеджи</a>
+          	 <span>( 13765 )</span> 
+          </li>
+             <li>
+          	 <a href = '/index.php?r=realtyObject/index&cat=5' title = 'Земельные участки  купить, продать в Пензе'>Земельные участки </a>
+          	 <span>( 3695 )</span> 
+          </li>
+             <li>
+          	 <a href = '/index.php?r=realtyObject/index&cat=6' title = 'Коммерческая недвижимость купить, продать в Пензе'>Коммерческая недвижимость</a>
+          	 <span>( 5248 )</span> 
+          </li>
+             <li>
+          	 <a href = '/index.php?r=realtyObject/index&cat=23' title = 'Гаражи, Стоянки  купить, продать в Пензе'>Гаражи, Стоянки </a>
+          	 <span>( 2020 )</span> 
+          </li>
+   </ul>      </div><!-- menu -->
+
+      <div class = 'sellerBox'>
+           <div class = 'seller'>
+                <div class = "sortAgent" id = "0">Все</div><div class = "sortAgent" id = "1">Частные</div><div class = "sortAgent" id = "2">Агентство</div>           </div>
+
+           <div class = 'countSearchElements'>
+                          </div>
+
+          <div class = 'orderBy'>
+              <select name = 'order' id = 'order'>
+                  <option value = '1'>По дате</option>
+                  <option value = '2'>Дешевле</option>
+                  <option value = '3'>Дороже</option>
+              </select>
+          </div>
+      </div>
+<div class = 'boxPaginator'>
+    <div class = 'countShowPages'>
+        <span>Показывать по:</span>
+        <select name = 'countSP' id = 'countSP'>
+            <option value = '20'>20</option>
+            <option value = '50'>50</option>
+            <option value = '100'>100</option>
+        </select>
+        <span>объектов</span>
+    </div>
+    <div class = 'paginator'>
+        Перейти к странице: <ul id="yw0" class="yiiPager"><li class="first hidden"><a href="/index.php?r=realtyObject/index">&lt;&lt; Первая</a></li>
+<li class="previous hidden"><a href="/index.php?r=realtyObject/index">&lt; Предыдущая</a></li>
+<li class="page selected"><a href="/index.php?r=realtyObject/index">1</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=2">2</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=3">3</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=4">4</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=5">5</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=6">6</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=7">7</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=8">8</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=9">9</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=10">10</a></li>
+<li class="next"><a href="/index.php?r=realtyObject/index&amp;page=2">Следующая &gt;</a></li>
+<li class="last"><a href="/index.php?r=realtyObject/index&amp;page=4794">Последняя &gt;&gt;</a></li></ul>    </div>
+</div>
+
+      <div class = 'boxRealty'>
+           <div class = 'BoxRealtyObject' item = '293124' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        1 850 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293124' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293124' title = 'Продаю 2 комнат. квартиру ул. Злобина 51а - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311891/small/17311891.jpg' alt = 'Продаю 2 комнат. квартиру ул. Злобина 51а' width = '80px'>
+                             <div class = 'countImg'>7</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293124'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293124' title = 'Продаю 2 комнат. квартиру ул. Злобина 51а - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продаю 2 комнат. квартиру ул. Злобина 51а</div>
+          <div class = 'address_urlTd'>
+             р-н Железнодорожный,              мк-рн Пенза-3,              Злобина,              пл. 44 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:51    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293123' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        4 492 400 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293123' target = '_blank' href = '/index.php?r=realtyObject/view&cat=8&id=293123' title = 'Продается 4 комнатная квартира по ул. Тернопольская стр. 3 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311895/small/17311895.jpg' alt = 'Продается 4 комнатная квартира по ул. Тернопольская стр. 3' width = '80px'>
+                             <div class = 'countImg'>2</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293123'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=8&id=293123' title = 'Продается 4 комнатная квартира по ул. Тернопольская стр. 3 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продается 4 комнатная квартира по ул. Тернопольская стр. 3</div>
+          <div class = 'address_urlTd'>
+             р-н Октябрьский,              мк-рн Арбеково (Запрудный),              Тернопольская,                        </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:50    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293122' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        2 590 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293122' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293122' title = 'Продается 3-к кв. по ул. Ладожская, 123 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311899/small/17311899.jpg' alt = 'Продается 3-к кв. по ул. Ладожская, 123' width = '80px'>
+                             <div class = 'countImg'>5</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293122'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293122' title = 'Продается 3-к кв. по ул. Ладожская, 123 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продается 3-к кв. по ул. Ладожская, 123</div>
+          <div class = 'address_urlTd'>
+             р-н Октябрьский,              мк-рн Арбеково дальнее,              Ладожская,              пл. 63 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:50    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293121' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        1 750 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293121' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293121' title = 'Продаю 1-к квартиру по ул.Лядова, 6, улучшенной планировки (38/19,5/ 9,5, 5/9 П) - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/no_foto.gif' alt = 'Продаю 1-к квартиру по ул.Лядова, 6, улучшенной планировки (38/19,5/ 9,5, 5/9 П)' width = '80px'>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293121'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293121' title = 'Продаю 1-к квартиру по ул.Лядова, 6, улучшенной планировки (38/19,5/ 9,5, 5/9 П) - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продаю 1-к квартиру по ул.Лядова, 6, улучшенной планировки (38/19,5/ 9,5, 5/9 П)</div>
+          <div class = 'address_urlTd'>
+             р-н Октябрьский,              мк-рн Арбеково дальнее,              Лядова,              пл. 38 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:49    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293120' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        1 170 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293120' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293120' title = 'Продам 1-ком. квартиру в новом доме в ЖК Спутник, ул. светлая 11 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311769/small/17311769.jpg' alt = 'Продам 1-ком. квартиру в новом доме в ЖК Спутник, ул. светлая 11' width = '80px'>
+                             <div class = 'countImg'>2</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293120'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293120' title = 'Продам 1-ком. квартиру в новом доме в ЖК Спутник, ул. светлая 11 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продам 1-ком. квартиру в новом доме в ЖК Спутник, ул. светлая 11</div>
+          <div class = 'address_urlTd'>
+             р-н Железнодорожный,              мк-рн Терновка. Спутник,              Светлая,                        </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:49    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293119' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        670 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293119' target = '_blank' href = '/index.php?r=realtyObject/view&cat=2&id=293119' title = 'Продам комнату на ОК - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311774/small/17311774.jpg' alt = 'Продам комнату на ОК' width = '80px'>
+                             <div class = 'countImg'>3</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293119'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=2&id=293119' title = 'Продам комнату на ОК - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продам комнату на ОК</div>
+          <div class = 'address_urlTd'>
+             р-н Октябрьский,              мк-рн Заводской,                           пл. 13 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:49    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293118' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        10 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293118' target = '_blank' href = '/index.php?r=realtyObject/view&cat=9&id=293118' title = 'Сдам 1 комн кв на Антонова 76.Новый Дом.ГПЗ-24 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311897/small/17311897.jpg' alt = 'Сдам 1 комн кв на Антонова 76.Новый Дом.ГПЗ-24' width = '80px'>
+                             <div class = 'countImg'>1</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293118'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=9&id=293118' title = 'Сдам 1 комн кв на Антонова 76.Новый Дом.ГПЗ-24 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Сдам 1 комн кв на Антонова 76.Новый Дом.ГПЗ-24</div>
+          <div class = 'address_urlTd'>
+             р-н Железнодорожный,              мк-рн Западная поляна,              Антонова,                        </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:49    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293117' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        4 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293117' target = '_blank' href = '/index.php?r=realtyObject/view&cat=9&id=293117' title = 'Сдам комнату на о/к по ул. Фрунзе, 18 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/no_foto.gif' alt = 'Сдам комнату на о/к по ул. Фрунзе, 18' width = '80px'>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293117'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=9&id=293117' title = 'Сдам комнату на о/к по ул. Фрунзе, 18 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Сдам комнату на о/к по ул. Фрунзе, 18</div>
+          <div class = 'address_urlTd'>
+             р-н Октябрьский,              мк-рн Заводской,              Фрунзе,              пл. 13 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:48    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293116' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        190 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293116' target = '_blank' href = '/index.php?r=realtyObject/view&cat=12&id=293116' title = 'Продам жилой дом в с. Надеждено, Пензенской области Пензенский район - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311923/small/17311923.jpg' alt = 'Продам жилой дом в с. Надеждено, Пензенской области Пензенский район' width = '80px'>
+                             <div class = 'countImg'>4</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293116'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=12&id=293116' title = 'Продам жилой дом в с. Надеждено, Пензенской области Пензенский район - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продам жилой дом в с. Надеждено, Пензенской области Пензенский район</div>
+          <div class = 'address_urlTd'>
+             р-н Железнодорожный,              мк-рн ГПЗ-24,                           пл. 33 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:48    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293115' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        1 280 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293115' target = '_blank' href = '/index.php?r=realtyObject/view&cat=8&id=293115' title = 'Квартира в новостройке. Цена ниже, чем у застройщика - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/no_foto.gif' alt = 'Квартира в новостройке. Цена ниже, чем у застройщика' width = '80px'>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293115'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=8&id=293115' title = 'Квартира в новостройке. Цена ниже, чем у застройщика - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Квартира в новостройке. Цена ниже, чем у застройщика</div>
+          <div class = 'address_urlTd'>
+             р-н Железнодорожный,              мк-рн ГПЗ-24,                           пл. 35 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:48    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293114' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+            </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293114' target = '_blank' href = '/index.php?r=realtyObject/view&cat=9&id=293114' title = 'Сдается комфортная однокомнатная квартира. Измайлова,79 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/no_foto.gif' alt = 'Сдается комфортная однокомнатная квартира. Измайлова,79' width = '80px'>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293114'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=9&id=293114' title = 'Сдается комфортная однокомнатная квартира. Измайлова,79 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Сдается комфортная однокомнатная квартира. Измайлова,79</div>
+          <div class = 'address_urlTd'>
+             р-н Железнодорожный,                           Измайлова,              пл. 46 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+                         </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:48    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293113' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+            </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293113' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293113' title = 'Продам 3 комн. квартиру по ул. Суворова - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311706/small/17311706.jpg' alt = 'Продам 3 комн. квартиру по ул. Суворова' width = '80px'>
+                             <div class = 'countImg'>7</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293113'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293113' title = 'Продам 3 комн. квартиру по ул. Суворова - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продам 3 комн. квартиру по ул. Суворова</div>
+          <div class = 'address_urlTd'>
+             р-н Железнодорожный,              мк-рн Центр,              Суворова,              пл. 60 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:48    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293112' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+            </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293112' target = '_blank' href = '/index.php?r=realtyObject/view&cat=21&id=293112' title = 'Сдаю производственно - складские помещение в Г. Кузнецке. 300 - 600 - 800 m2 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/no_foto.gif' alt = 'Сдаю производственно - складские помещение в Г. Кузнецке. 300 - 600 - 800 m2' width = '80px'>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293112'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=21&id=293112' title = 'Сдаю производственно - складские помещение в Г. Кузнецке. 300 - 600 - 800 m2 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Сдаю производственно - складские помещение в Г. Кузнецке. 300 - 600 - 800 m2</div>
+          <div class = 'address_urlTd'>
+             р-н Первомайский,              мк-рн Южная поляна,                                     </div>
+          <div class = 'agent_urlTd'>
+                         </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:47    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293111' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        1 490 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293111' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293111' title = 'Продам 1 комнкв по ул. Калинина, 105 4/4 к; углов; 31,5/18,5/6 кв.м - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311746/small/17311746.jpg' alt = 'Продам 1 комнкв по ул. Калинина, 105 4/4 к; углов; 31,5/18,5/6 кв.м' width = '80px'>
+                             <div class = 'countImg'>5</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293111'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293111' title = 'Продам 1 комнкв по ул. Калинина, 105 4/4 к; углов; 31,5/18,5/6 кв.м - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продам 1 комнкв по ул. Калинина, 105 4/4 к; углов; 31,5/18,5/6 кв.м</div>
+          <div class = 'address_urlTd'>
+             р-н Первомайский,              мк-рн Южная поляна,              Калинина,                        </div>
+          <div class = 'agent_urlTd'>
+                         </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:47    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293110' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        12 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293110' target = '_blank' href = '/index.php?r=realtyObject/view&cat=18&id=293110' title = 'Сдам офис по ул. Лермонтова - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/no_foto.gif' alt = 'Сдам офис по ул. Лермонтова' width = '80px'>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293110'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=18&id=293110' title = 'Сдам офис по ул. Лермонтова - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Сдам офис по ул. Лермонтова</div>
+          <div class = 'address_urlTd'>
+             р-н Первомайский,              мк-рн Центр,              Лермонтова,                        </div>
+          <div class = 'agent_urlTd'>
+                         </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:47    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293109' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        2 350 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293109' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293109' title = 'Продам 3к кв на ул. Попова 14а,3/5, (Западная поляна) - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311712/small/17311712.jpg' alt = 'Продам 3к кв на ул. Попова 14а,3/5, (Западная поляна)' width = '80px'>
+                             <div class = 'countImg'>1</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293109'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293109' title = 'Продам 3к кв на ул. Попова 14а,3/5, (Западная поляна) - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продам 3к кв на ул. Попова 14а,3/5, (Западная поляна)</div>
+          <div class = 'address_urlTd'>
+             р-н Ленинский,              мк-рн Западная поляна,              Западная,              пл. 56 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:47    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293108' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        7 500 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293108' target = '_blank' href = '/index.php?r=realtyObject/view&cat=9&id=293108' title = '1-к квартира, 36 м², 3/9 эт. - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/avito/589686462/small/589686462.jpg' alt = '1-к квартира, 36 м², 3/9 эт.' width = '80px'>
+                             <div class = 'countImg'>1</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293108'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=9&id=293108' title = '1-к квартира, 36 м², 3/9 эт. - продажа, покупка, аренда без посредников в Пензе'>
+          <div>1-к квартира, 36 м², 3/9 эт.</div>
+          <div class = 'address_urlTd'>
+                                                    пл. 36 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+                         </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:47    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293107' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        25 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293107' target = '_blank' href = '/index.php?r=realtyObject/view&cat=16&id=293107' title = 'Земельные участки с коммуникациями в начале с. Бессоновка - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311833/small/17311833.jpg' alt = 'Земельные участки с коммуникациями в начале с. Бессоновка' width = '80px'>
+                             <div class = 'countImg'>2</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293107'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=16&id=293107' title = 'Земельные участки с коммуникациями в начале с. Бессоновка - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Земельные участки с коммуникациями в начале с. Бессоновка</div>
+          <div class = 'address_urlTd'>
+                                                              </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:46    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293106' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        1 520 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293106' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293106' title = 'Продам 1 комнатную квартиру в ЖК Спутник по ул. Радужная,15 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/no_foto.gif' alt = 'Продам 1 комнатную квартиру в ЖК Спутник по ул. Радужная,15' width = '80px'>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293106'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293106' title = 'Продам 1 комнатную квартиру в ЖК Спутник по ул. Радужная,15 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продам 1 комнатную квартиру в ЖК Спутник по ул. Радужная,15</div>
+          <div class = 'address_urlTd'>
+             р-н Первомайский,              мк-рн Терновка. Спутник,                           пл. 31 м<sup>2</sup>          </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:46    </div>
+</div>
+<div class = 'BoxRealtyObject' item = '293105' views = '1'>
+
+    <div class = 'notebook' reg = '1' add = '0'>
+        <span class="hint  hint--top  hint--info" data-hint="Добавить в блокнот">
+            <img src = '/images/notebook2.png' width="25px;">
+        </span>
+    </div>
+    <div class = 'priceTd'>
+        1 625 000 руб.    </div>
+    <div class = 'imagesTd'>
+      <div class = 'hiddenImg'>
+         <a item = '293105' target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293105' title = 'Продам 1,5 кв. ул.Ладожская 47 - продажа, покупка, аренда без посредников в Пензе'>
+             <img src = '/pars/tmp/images/bazarpnz/17311835/small/17311835.jpg' alt = 'Продам 1,5 кв. ул.Ладожская 47' width = '80px'>
+                             <div class = 'countImg'>6</div>
+                      </a>
+      </div>
+    </div>
+    <div class = 'urlTd'>
+        <a item = '293105'  target = '_blank' href = '/index.php?r=realtyObject/view&cat=7&id=293105' title = 'Продам 1,5 кв. ул.Ладожская 47 - продажа, покупка, аренда без посредников в Пензе'>
+          <div>Продам 1,5 кв. ул.Ладожская 47</div>
+          <div class = 'address_urlTd'>
+             р-н Октябрьский,              мк-рн Арбеково дальнее,              Ладожская,                        </div>
+          <div class = 'agent_urlTd'>
+               Агентство          </div>
+        </a>
+    </div>
+    <div class = 'dateTd'>
+        <div class = 'browse' style = 'display:none;'>Смотрел</div>
+        Сегодня 13:46    </div>
+</div>
+
+
+
+      </div>
+      <div class = 'boxPaginator'>
+           <div class = 'countShowPages'>
+                <span>Показывать по:</span>
+                      <select name = 'countSP' id = 'countSP'>
+                             <option value = '20'>20</option>
+                             <option value = '50'>50</option>
+                             <option value = '100'>100</option>
+                      </select>
+                <span>объектов</span>
+            </div>
+           <div class = 'paginator'>
+                Перейти к странице: <ul id="yw1" class="yiiPager"><li class="first hidden"><a href="/index.php?r=realtyObject/index">&lt;&lt; Первая</a></li>
+<li class="previous hidden"><a href="/index.php?r=realtyObject/index">&lt; Предыдущая</a></li>
+<li class="page selected"><a href="/index.php?r=realtyObject/index">1</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=2">2</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=3">3</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=4">4</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=5">5</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=6">6</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=7">7</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=8">8</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=9">9</a></li>
+<li class="page"><a href="/index.php?r=realtyObject/index&amp;page=10">10</a></li>
+<li class="next"><a href="/index.php?r=realtyObject/index&amp;page=2">Следующая &gt;</a></li>
+<li class="last"><a href="/index.php?r=realtyObject/index&amp;page=4794">Последняя &gt;&gt;</a></li></ul>           </div>
+      </div>
+   <div class = 'footer_object'>
+               
+        
+         
+                  <div class = 'boxItemMenuFooter'>
+            <ul>
+              <li><a href = '/index.php?r=realtyObject/index&cat=1' title = 'Объявления о продаже, Квартиры'><b>Квартиры</b></a></li>
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=7' title = 'Объявления о продаже, Вторичка'>Вторичка</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=8' title = 'Объявления о продаже, Новостройки'>Новостройки</a>
+                          </li>
+                        </ul>
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  <div class = 'boxItemMenuFooter'>
+            <ul>
+              <li><a href = '/index.php?r=realtyObject/index&cat=2' title = 'Объявления о продаже, Комнаты'><b>Комнаты</b></a></li>
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  <div class = 'boxItemMenuFooter'>
+            <ul>
+              <li><a href = '/index.php?r=realtyObject/index&cat=3' title = 'Объявления о продаже, Аренда жилья'><b>Аренда жилья</b></a></li>
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=9' title = 'Объявления о продаже, Долгосрочная'>Долгосрочная</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=10' title = 'Объявления о продаже, По суточно  '>По суточно  </a>
+                          </li>
+                        </ul>
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  <div class = 'boxItemMenuFooter'>
+            <ul>
+              <li><a href = '/index.php?r=realtyObject/index&cat=4' title = 'Объявления о продаже, Дома, дачи, коттеджи'><b>Дома, дачи, коттеджи</b></a></li>
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=11' title = 'Объявления о продаже, Дома'>Дома</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=12' title = 'Объявления о продаже, Дачи'>Дачи</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=13' title = 'Объявления о продаже, Коттеджи'>Коттеджи</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=14' title = 'Объявления о продаже, Таунхаусы'>Таунхаусы</a>
+                          </li>
+                        </ul>
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  <div class = 'boxItemMenuFooter'>
+            <ul>
+              <li><a href = '/index.php?r=realtyObject/index&cat=5' title = 'Объявления о продаже, Земельные участки '><b>Земельные участки </b></a></li>
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=15' title = 'Объявления о продаже, Коммерческие земельные участки'>Коммерческие земельные участки</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=16' title = 'Объявления о продаже, Под индивидуальную застройку'>Под индивидуальную застройку</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=17' title = 'Объявления о продаже, Участки С/Х назначения '>Участки С/Х назначения </a>
+                          </li>
+                        </ul>
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  <div class = 'boxItemMenuFooter'>
+            <ul>
+              <li><a href = '/index.php?r=realtyObject/index&cat=6' title = 'Объявления о продаже, Коммерческая недвижимость'><b>Коммерческая недвижимость</b></a></li>
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=18' title = 'Объявления о продаже, Офисы'>Офисы</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=19' title = 'Объявления о продаже, Складское помещение'>Складское помещение</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=20' title = 'Объявления о продаже, Торговое помещение  '>Торговое помещение  </a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=21' title = 'Объявления о продаже, Производственное помещение'>Производственное помещение</a>
+                          </li>
+                        </ul>
+                             
+                     
+                                            <ul>
+                          <li>
+                             <a href = '/index.php?r=realtyObject/index&cat=22' title = 'Объявления о продаже, Помещение свободного назначения'>Помещение свободного назначения</a>
+                          </li>
+                        </ul>
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  <div class = 'boxItemMenuFooter'>
+            <ul>
+              <li><a href = '/index.php?r=realtyObject/index&cat=23' title = 'Объявления о продаже, Гаражи, Стоянки '><b>Гаражи, Стоянки </b></a></li>
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+         
+        
+         
+                  
+                            
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+                     
+                             
+   
+          </ul>
+        </div>
+
+
+   </div>
+
+";i:1;a:2:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:26:"/assets/b0343e2a/pager.css";}}i:1;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:26:"/assets/b0343e2a/pager.css";}}}}i:1;N;}

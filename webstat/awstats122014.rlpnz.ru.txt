@@ -1,0 +1,769 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201412 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.rlpnz.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1988                
+POS_TIME 2657                
+POS_VISITOR 20802               
+POS_DAY 26597               
+POS_DOMAIN 3642                
+POS_LOGIN 3877                
+POS_ROBOT 4032                
+POS_WORMS 4653                
+POS_EMAILSENDER 4784                
+POS_EMAILRECEIVER 4927                
+POS_SESSION 27508               
+POS_SIDER 27717               
+POS_FILETYPES 5062                
+POS_DOWNLOADS 5295                
+POS_OS 5343                
+POS_BROWSER 5485                
+POS_SCREENSIZE 6244                
+POS_UNKNOWNREFERER 6318                
+POS_UNKNOWNREFERERBROWSER 6623                
+POS_ORIGIN 6747                
+POS_SEREFERRALS 6894                
+POS_PAGEREFS 7062                
+POS_SEARCHWORDS 7381                
+POS_KEYWORDS 8978                
+POS_MISC 2320                
+POS_ERRORS 10366               
+POS_CLUSTER 3733                
+POS_SIDER_404 10535               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150101000001 275 44944 6232986279418
+FirstTime 0
+LastTime 20141231171434
+LastUpdate 20150101000103 275 0 273 0 1
+TotalVisits 265                 
+TotalUnique 137                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 141                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 63 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 148 2856 28955313 741 905 58013892
+1 111 2705 36898173 281 384 16253343
+2 40 921 3603218 238 272 6623062
+3 8 225 7770364 229 261 2555505
+4 16 176 1615720 267 301 2276235
+5 17 73 2123211 257 262 2031466
+6 10 60 608264 320 359 2877644
+7 5 5 32830 221 235 1649418
+8 10 29 708928 235 249 3627616
+9 36 334 4323420 220 282 5784433
+10 205 1691 42486879 273 321 12131768
+11 548 7862 113979715 622 765 12191268
+12 772 9426 102747257 688 820 22502325
+13 797 7910 101737595 874 941 15558148
+14 534 5270 78338795 440 589 11850378
+15 537 6040 57147045 415 609 14224594
+16 304 2995 35234621 394 503 10614847
+17 274 1557 29609525 508 619 9724137
+18 310 1924 22681269 579 610 11710015
+19 214 1204 12661777 498 539 6553158
+20 92 1126 24874591 396 426 12681757
+21 93 1261 28957335 360 398 30589404
+22 110 3226 11119729 381 559 25235578
+23 124 2350 24546287 449 582 46173475
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 5315 61226 772761861
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+wget 2915 322859379 20141231230001 0
+yandex 751 2976257 20141231110331 0
+googlebot 243 737424 20141231073943 0
+no_user_agent 45 471778 20141231053937 0
+bot[\s_+:,\.\;\/\\-] 30 82527 20141228112114 0
+favicon 12 37025 20141223172718 0
+mediapartners\-google 4 19791 20141224130840 0
+ng\/1\. 4 21908 20141219001825 0
+surveybot 2 8152 20141225072957 0
+[\s_+:,\.\;\/\\-]bot 2 7956 20141210125625 0
+spider 1 10745 20141213171447 0
+mail\.ru 1 4134 20141229190123 0
+crawl 2 21488 20141214165435 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 5853 2187533 0 0
+png 1138 4635056 0 0
+php 4141 30779477 0 0
+html 1171 12612248 0 0
+js 5303 4466476 0 0
+jpg 43433 717658621 0 0
+Unknown 3 1227 0 0
+gif 184 421223 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 9
+linuxandroid 457
+winlong 66
+winxp 624
+win2000 1
+linux 83
+winvista 15171
+win7 44784
+macosx 1
+Unknown 39
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 41
+msie6.0 1
+chrome37.0.2062.124 723
+firefox4.0.1 1
+chrome34.0.1847.137 1
+android 29
+chrome28.0.1500.95 30
+chrome39.0.2171.95 18874
+chrome38.0.2125.111 5
+chrome31.0.1650.57 64
+firefox34.0 28
+chrome36.0.1985.125 29
+curl 4
+chrome31.0.1650.63 64
+opera9.80 131
+firefox2.0.0.13 1
+msie8.0 205
+firefox13.0.1 2
+chrome39.0.2171.65 68
+chrome38.0.2125.122 261
+msie7.0 11
+firefox3.5.8 66
+chrome34.0.1847.116 29
+firefox16.0 8
+chrome27.0.1453 56
+chrome33.0.1750.154 5484
+Unknown 32
+chrome39.0.2171.71 33944
+firefox29.0 30
+chrome39.0.2171.59 399
+chrome35.0.1916.114 445
+chrome36.0.1985.143 4
+firefox33.0 28
+mozilla 5
+firefox25.0 30
+netscape5.0 1
+firefox22.0 31
+msie10.0 71
+safari8.0.2 1
+firefox3.5 1
+safari 26
+firefox3.6.13 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+IE 20141231171434
+PycURL/7.19.3_libcurl/7.35.0_GnuTLS/2.12.23_zlib/1.2.8_libidn/1.28_librtmp/2.3 20141213212333
+WebIndex 20141227082522
+Mozilla/5.0_(compatible;_Netology/1.0.0;__http://netology.noip.me) 20141214110448
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+IE 20141231171434
+WebIndex 20141227082522
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2078 2090
+From1 1 1
+From2 31 31
+From3 61 88
+From4 3144 59016
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+yandex 30 30
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://195.242.161.190/myadmin/index.php 61 61
+http://www.mezon58.ru/css/realty/realty.css 0 4
+http://www.mezon58.ru/index.php 0 21
+http://www.mezon58.ru/css/main.css 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 13
+89631093968 3
+89033239416 3
+%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%be%d0%bc+%d0%bf%d0%b5%d0%bd%d0%b7%d0%b0+%d1%81%d0%bf%d1%83%d1%82%d0%bd%d0%b8%d0%ba+%d0%be%d1%84%d0%b8%d1%81+%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6+%d1%82%d0%b5%d0%bb%d0%b5%d1%84%d0%be%d0%bd 3
+%d0%b8%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d1%8b+4%d0%ba%d0%b2+2014+%d0%bf%d0%b5%d0%bd%d0%b7%d0%b0 2
+89677016575+%d0%bf%d0%b5%d0%bd%d0%b7%d0%b0 2
+%d0%ba%d0%be%d0%b3%d0%b4%d0%b0+%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%be%d1%8f%d1%82+%d1%81%d0%b0%d0%b2%d0%b2%d0%b8%d0%bd%d1%81%d0%ba%d0%be%d0%b5+%d0%bf%d0%be%d0%bb%d0%b5 2
+%d1%81%d1%80%d0%b5%d0%b4%d0%b0-4+%d1%83%d0%bb.+%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%be%d0%b2%d0%b0 2
+%d0%bf%d0%b5%d0%bd%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9+%d1%81%d1%80%d0%b5%d0%b4%d0%b0+4+%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%bd%d0%b8%d0%b5+11 2
+89033232826 2
+%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b9%d0%ba%d0%b0+%d0%be%d1%82+%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9%d1%89%d0%b8%d0%ba%d0%b0+%d0%bf%d0%b5%d0%bd%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9+%d0%bd%d0%b0+%d1%83%d0%bb%d0%b8%d1%86%d0%b5+%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%be%d0%b2%d0%b0+%d1%81%d1%82%d1%80.5 1
+%d0%b4%d0%be%d0%bc+%d0%bf%d0%be+%d1%83%d0%bb+%d0%b1%d0%be%d1%80%d0%be%d0%b2%d0%b8%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%be%d0%b3%d0%be 1
+%d0%be%d1%82%d0%ba%d1%80%d0%be%d0%b5%d0%bc+%d0%bb%d0%be%d0%b3%d0%b8%d0%bd+%d0%b8+%d0%bf%d0%b0%d1%80%d0%be%d0%bb%d1%8c+%d0%b0%d0%b3%d0%b5%d0%bd%d1%82 1
+rlpnz.ru 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 41
+%d0%bf%d0%b5%d0%bd%d0%b7%d0%b0 7
+89631093968 3
+%d1%81%d0%bf%d1%83%d1%82%d0%bd%d0%b8%d0%ba 3
+%d0%bf%d0%b5%d0%bd%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9 3
+89033239416 3
+%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%be%d0%bc 3
+%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%be%d0%b2%d0%b0 3
+%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6 3
+%d0%be%d1%84%d0%b8%d1%81 3
+%d1%82%d0%b5%d0%bb%d0%b5%d1%84%d0%be%d0%bd 3
+%d0%b0%d0%b3%d0%b5%d0%bd%d1%82 1
+%d0%b4%d0%be%d0%bc 1
+4%d0%ba%d0%b2 2
+%d0%be%d1%82%d0%ba%d1%80%d0%be%d0%b5%d0%bc 1
+%d1%81%d1%82%d1%80.5 1
+%d0%be%d1%82 1
+89033232826 2
+%d0%b8 1
+%d0%bb%d0%be%d0%b3%d0%b8%d0%bd 1
+%d0%bf%d0%be 1
+%d0%bf%d0%be%d0%bb%d0%b5 2
+%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%bd%d0%b8%d0%b5 2
+%d1%83%d0%bb 1
+%d1%81%d1%80%d0%b5%d0%b4%d0%b0 2
+11 2
+89677016575 2
+%d0%b8%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d1%8b 2
+2014 2
+%d1%83%d0%bb. 2
+%d0%bf%d0%b0%d1%80%d0%be%d0%bb%d1%8c 1
+%d0%bd%d0%b0 1
+%d1%81%d0%b0%d0%b2%d0%b2%d0%b8%d0%bd%d1%81%d0%ba%d0%be%d0%b5 2
+%d0%ba%d0%be%d0%b3%d0%b4%d0%b0 2
+%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9%d1%89%d0%b8%d0%ba%d0%b0 1
+%d1%83%d0%bb%d0%b8%d1%86%d0%b5 1
+%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b9%d0%ba%d0%b0 1
+%d0%b1%d0%be%d1%80%d0%be%d0%b2%d0%b8%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%be%d0%b3%d0%be 1
+rlpnz.ru 1
+%d0%b7%d0%b0%d1%81%d1%82%d1%80%d0%be%d1%8f%d1%82 2
+4 2
+%d1%81%d1%80%d0%b5%d0%b4%d0%b0-4 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 2414 12937005
+416 2 1338
+206 49 571282
+500 4 23073
+400 15 7545
+301 1 565
+404 5222 2567669
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 205
+/categories/sell_stores_shops/streets/%D0%BF%D0%B5%D1%80_%D0%A3%D1%82%D0%B5%D1%81%D0%BE%D0%B2%D0%B0/ 2 -
+/fancybox/fancy_shadow_sw.png 4 -
+/ 75 -
+/admin/content/sitetree/ 2 -
+/admin/config.php 4 -
+/admin.php 25 -
+/script 1 -
+/bazarpnz/public.php 1 http://rlpnz.ru/publish_test/
+/resoures/css/style.css 3 http://rlpnz.ru/publish/avito/
+/foto/268824/ 1 -
+/foto/260965/ 1 -
+/categories/sdam_office/streets/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0/ 2 -
+/modules/mod_xsystem/mod_xsystem.php 2 -
+/manager/templates/default/css/login-min.css 2 -
+/streets/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2_13/ 1 -
+/category/sdam_store_shop/street/%D1%83%D0%BB_%D0%9B%D0%B0%D0%B7%D1%83%D1%80%D0%BD%D0%B0%D1%8F/ 1 -
+/publish/resources/css/resources/images/loader.png 4 http://rlpnz.ru/publish/resources/css/style.css
+/img/logo.gif 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/manager/media/script/mootools/mootools.js 2 -
+/publish/publish/resources/css/style.css 7 http://rlpnz.ru/publish/
+/CFIDE/administrator/ 1 -
+/rossiya 1 http://rlpnz.ru/publish/avito/public.php
+/myadmin/config/config.inc.php 5 -
+/categories/sell_land/regions/no_region/45 1 -
+/scripts/reveal/css/modal-gloss.png 391 http://rlpnz.ru/scripts/reveal/css/reveal.css
+/category/snimu_house/street/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D1%88%D0%BE%D1%81%D1%81%D0%B5/ 1 -
+/cgi-sys/php5 1 -
+/node/ 2 -
+/category/sell_houses/street/%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0/ 1 -
+/cgi-bin/defaultwebpage.cgi 1 -
+/img/features_bottommiddle.jpg 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/img/bg2.gif 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/phpadmin/scripts/setup.php 2 -
+/streets/%D1%8E%D0%B6%D0%B0%D0%BD%D0%BA%D0%B0_2/ 1 -
+/cgi-sys/entropysearch.cgi 2 -
+/captcha 428 http://rlpnz.ru/publish/avito/public.php
+/fancybox/fancy_shadow_se.png 6 -
+/netcat/admin/skins/default/css/style.css 2 -
+/bitrix/js/main/core/core.css 2 -
+/administrator/ 21 -
+/images/cms/admin/mac/common/butterfly.png 2 -
+/phpMyAdmin/scripts/setup.php 11 -
+/publish_test/bazarpnz/js.js 2 http://rlpnz.ru/publish_test/bazarpnz/public.php
+/wp-login.php 32 -
+/styles.css 19 http://rlpnz.ru/publish/bazarpnz/public.php
+/actionnews/index/ 1 -
+/publish/resources/css/style.css 26 http://rlpnz.ru/publish/
+/netcat/admin/skins/default/css/login.css 2 -
+/manager/templates/default/images/restyle/headers.jpg 2 -
+/profile/item/476109612 1 http://rlpnz.ru/publish/avito/public.php
+/agora.cgi 1 -
+/img/footer_bg.jpg 17 http://rlpnz.ru/publish/bazarpnz/public.php
+//%63%67%69%2D%62%69%6E/%70%68%70 1 -
+/cgi-bin/php 3 -
+/mysql/scripts/setup.php 1 -
+/modules/system/system.base.css 2 -
+/publish/bazarpnz/swfobject.js 15 http://rlpnz.ru/publish/bazarpnz/public.php
+/publish/resources/images/images/loader.png 1 http://rlpnz.ru/publish/resources/css/style.css
+/centreon/ 1 -
+/administrator.cgi 1 -
+/cgi-bin/tools/tools.pl 1 -
+/analyse.cgi 1 -
+/_mt/mt.cgi 1 -
+/publish/resources/css/images/loader.png 3 http://rlpnz.ru/publish/resources/css/style.css
+/fancybox/fancy_shadow_ne.png 6 -
+/aktivate/cgi-bin/catgy.cgi 1 -
+/user/login/ 2 -
+/styles/skins/mac/design/css/style.css 2 -
+/fancybox/fancy_shadow_s.png 6 -
+/users/registrate/ 2 -
+/cgi-bin/hello.cgi 1 -
+/wp-admin/images/wordpress-logo.png 2 -
+/administrator/index.php 6 -
+/categories/sdam_apt_month/streets/%D0%BB%D1%8E%D0%B1%D0%B0%D1%8F/15/ 1 -
+/additem/socialproof 11 http://rlpnz.ru/publish/avito/public.php
+/cgi-bin/meme.cgi 1 -
+/publish_test/bazarpnz/ajax.js 2 http://rlpnz.ru/publish_test/bazarpnz/public.php
+/jmx-console/ 2 -
+/vtigercrm/test/upload/vtigercrm.txt 1 -
+/web/scripts/setup.php 1 -
+/media/system/js/mootools.js 2 -
+/profile/settings 1 http://rlpnz.ru/publish/avito/public.php
+/bitrix/admin/ 2 -
+/jenkins/script 1 -
+/plugins/system/plugin_googlemap2_proxy.php 1 -
+/images/fly.gif 1 -
+/publish/resources/images/loader.gif 2 http://rlpnz.ru/publish/
+/user/password/ 2 -
+/img/features_bottomleft.jpg 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/cgi-bin/main.cgi 1 -
+/cgi-bin/test-cgi.pl 2 -
+/robots.txt 150 -
+/publish/resources/css/publish/resources/images/loader.png 1 http://rlpnz.ru/publish/resources/css/style.css
+/images/loader.png 2 http://rlpnz.ru/publish/resources/css/style.css
+/cgi-sys/defaultwebpage.cgi 1 -
+//wp-admin/admin-ajax.php 1 -
+/zabbix/ 1 -
+/cgi-bin/test.sh 3 -
+/web-console/ServerInfo.jsp 1 -
+/ga 3099 http://rlpnz.ru/publish/avito/public.php
+/fancybox/fancy_shadow_n.png 6 -
+/cgi-bin/sat-ir-web.pl 1 -
+/board/3-0-0-0-1/ 3 -
+/img/features_right.jpg 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/wp-admin/ 2 -
+/cgi-bin/php5-cli 1 -
+/phpMyAdmin/translators.html 1 -
+/netcat/admin/ 2 -
+/img/1x1.gif 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/cgi-sys/redirect.cgi 1 -
+/category/buy_garages/street/%D1%83%D0%BB_%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%BF%D0%B5%D1%80/ 1 -
+/categories/sell_land/streets/%D0%97%D0%B0%D1%82%D0%BE%D0%BA%D0%B0/ 5 http://195.242.161.190/categories/sell_land/streets/%D0%97%D0%B0%D1%82%D0%BE%D0%BA%D0%B0/
+/categories/sdam_apt_day/streets/%D0%92%D0%B8%D1%86%D0%B5_%D0%B0%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D0%B0_%D0%96%D1%83%D0%BA%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA/ 1 -
+/profile/registration 1 http://rlpnz.ru/publish/avito/start.php
+/wp-content/ 2 -
+/img/features_topright.jpg 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/phpMyAdmin/config/config.inc.php 1 -
+/img/elvit.gif 17 http://rlpnz.ru/publish/bazarpnz/public.php
+http://s1.bdstatic.com/r/www/cache/static/home/img/logos/nuomi_ade5465d.png 19 -
+/publish/resources/tmp/images/loader.png 2 http://rlpnz.ru/publish/resources/css/style.css
+/cgi-bin/forum.cgi 1 -
+/resources/css/style.css 9 http://rlpnz.ru/publish/
+/profile/item/476084691 1 http://rlpnz.ru/publish/avito/public.php
+/categories/sell_apt/streets/%D0%91%D0%9E%D0%A7%D0%90%D0%A0%D0%9E%D0%92%D0%90/570 1 -
+/request/paramsForAdd_24 134 http://rlpnz.ru/publish/avito/public.php
+/img/features_bottomright.jpg 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/categories/sell_land/streets/%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F/30/ 1 -
+/category/sdam_apt_month/region/kievskii/ 1 -
+/manager/templates/default/images/style/modx-logo-header.png 2 -
+/css/style.css 1 http://rlpnz.ru/publish/
+/categories/sdam_apt_day/streets/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0/ 1 -
+/js/locations 2 http://rlpnz.ru/publish/avito/public.php
+/myadmin/scripts/setup.php 21 http://195.242.161.190/myadmin/scripts/setup.php
+/resources/images/loader.png 1 http://rlpnz.ru/publish/resources/css/style.css
+/cgi-bin/bash 1 -
+/phpmyadmin/translators.html 1 -
+/category/odessa_region_map/street/%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D1%8B%D0%BF%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_1_%D1%8F/ 1 -
+/cgi-bin/fire.cgi 1 -
+/cgi-bin/login.cgi 1 -
+/publish_test/bazarpnz/swfobject.js 2 http://rlpnz.ru/publish_test/bazarpnz/public.php
+/cgi-bin/test-cgi 6 -
+http://178.45.249.173/ 1 -
+/cgi-bin/php.cgi 2 -
+/manager/media/style/MODxCarbon/images/misc/logo.png 2 -
+/manager/media/style/MODxCarbon/images/misc/login-logo.png 2 -
+/cgi-sys/test-cgi 1 -
+/PBX/index.php 10 -
+/bitrix/themes/.default/images/auth_pict.gif 2 -
+http://pl.wikipedia.org/wiki/Special:Search 2 -
+/streets/%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_1_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0/ 1 -
+/etc/lib/pChart2/examples/index.php 7 -
+/mysqladmin/scripts/setup.php 2 -
+/w00tw00t.at.blackhats.romanian.anti-sec:) 9 -
+/categories/sell_apt/streets/%D0%91%D0%9E%D0%A7%D0%90%D0%A0%D0%9E%D0%92%D0%90/570/ 1 -
+/categories/sell_apt/streets/%D0%92%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81%D0%B0/225/ 1 -
+/users/forget/ 2 -
+/publish/publish/bazarpnz/public.php 1 http://rlpnz.ru/publish/
+/code.php 19 http://rlpnz.ru/publish/bazarpnz/public.php
+/img/features_topleft.jpg 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/cgi-bin/recent.cgi 1 -
+/categories/sdam_house/streets/%D0%A1%D0%BE%D0%B2%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD_122_%D0%BF%D1%80%D0%B8%D1%87%D0%B0%D0%BB_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F/ 1 -
+/templates/system/css/system.css 2 -
+/cgi-bin/php5 3 -
+/MyAdmin/scripts/setup.php 9 -
+/cgi-bin/php4 3 -
+http://6.url.cn/zc/chs/img/body.png 1 -
+/fancybox/fancy_shadow_nw.png 4 -
+/phpmyadmin/scripts/setup.php 12 -
+/netcat/admin/skins/default/img/logo.png 2 -
+/cgi-bin/index.cgi 1 -
+/modules/system/system.css 2 -
+/category/sell_apt/street/%D0%91%D1%83%D0%BD%D0%B8%D0%BD%D0%B0_%D1%83%D0%B3%D0%BE%D0%BB_%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9/ 1 -
+/cgi-bin/test 3 -
+/user/soapCaller.bs 4 -
+/cgi-bin/php-cgi 2 -
+/personal_blog/ 1 -
+/categories/sell_stores_shops/streets/%D0%94%D0%B5%D1%80%D0%B8%D0%B1%D0%B0%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0/ 1 -
+/admin.cgi 1 -
+/bitrix/themes/.default/adminstyles.css 2 -
+/phppath/php 1 -
+/cgi-bin-sdb/printenv 1 -
+/images/blend.jpg 1 -
+/cgi-mod/index.cgi 1 -
+/fancybox/fancy_shadow_w.png 4 -
+/user/ 2 -
+/categories/sdam_office/regions/primorskii/780 1 -
+/installed 2 -
+/img/c/g/greenarrow.gif 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/fancybox/fancy_shadow_e.png 6 -
+/phppath/cgi_wrapper 3 -
+/cgi-bin/env.cgi 1 -
+/publish/bazarpnz/js.js 15 http://rlpnz.ru/publish/bazarpnz/public.php
+/hudson/script 1 -
+/manager/media/style/MODxCarbon/style.css 2 -
+/img/features_left.jpg 17 http://rlpnz.ru/publish/bazarpnz/public.php
+/pma/scripts/setup.php 10 -
+/css/css 1 -
+/cgi-bin/test/test.cgi 2 -
+/wp-admin/css/wp-admin.css 2 -
+/manager/html 86 -
+/RLPNZ.ru 2 http://rlpnz.ru/RLPNZ.ru
+/cgi-bin/contact.cgi 1 -
+/cgi-bin/test.cgi 3 -
+/img/search.gif 19 http://rlpnz.ru/publish/bazarpnz/public.php
+/publish/bazarpnz/ajax.js 15 http://rlpnz.ru/publish/bazarpnz/public.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 141
+91.144.147.17 1262 10028 267566277 20141231110747
+82.209.67.230 1053 14451 131318112 20141215140956
+93.124.91.208 487 3355 19748298 20141204195201
+93.124.38.229 285 1163 11062442 20141211195236
+95.152.51.133 262 1215 14007395 20141210192742
+95.152.45.211 229 2353 26537399 20141216022311
+95.152.36.81 202 3000 31386074 20141218023104
+95.152.21.153 135 4720 19997482 20141210020830
+93.124.52.17 133 1311 13569664 20141212193711
+93.124.108.213 119 3622 27735030 20141209013446
+178.210.65.27 1 1 4134 20141223084300
+93.124.116.184 4 5 14752 20141226123738
+193.164.133.50 1 26 166482 20141203133149
+66.249.93.194 1 10 32822 20141208173144
+37.110.110.250 1 21 225602 20141207001519
+37.145.1.207 1 32 187744 20141229040114
+46.188.29.153 1 32 187744 20141229040114
+176.14.134.225 1 20 62679 20141206090041
+85.26.164.242 2 29 175112 20141230225854
+95.131.91.122 1 26 166484 20141201143658
+182.254.154.234 1 1 4076 20141223000220
+93.124.23.20 4 64 1464500 20141229003722
+188.42.240.119 1 1 10687 20141221170504
+176.77.36.32 1 30 182456 20141207092640
+182.254.208.113 1 1 3923 20141203061923
+91.240.208.182 2 29 174100 20141211185008
+188.32.134.233 1 21 225602 20141206235955
+46.119.123.103 1 1 10609 20141215173901
+182.254.136.121 1 1 4076 20141221041326
+95.152.36.10 26 912 9357622 20141219184839
+182.254.209.73 1 1 3923 20141201053233
+66.249.81.137 1 11 98250 20141222125702
+93.124.17.171 31 853 11228647 20141212014343
+5.9.11.122 1 1 10689 20141210073958
+115.159.67.97 2 2 7999 20141216173204
+95.152.4.170 108 463 5172979 20141224201410
+92.38.30.11 3 3 12228 20141214110448
+93.124.21.115 40 558 7044177 20141208021244
+37.144.189.54 1 32 187744 20141219141802
+134.249.89.224 1 1 10609 20141224144239
+79.133.103.37 1 1 10184 20141208004000
+95.152.37.178 44 762 14477693 20141204015945
+178.137.30.120 1 1 401 20141215124658
+95.152.30.236 45 341 7478365 20141203004710
+182.254.208.92 1 1 4076 20141209204139
+91.144.177.49 74 445 4250921 20141203184805
+182.254.220.90 2 2 7998 20141215023359
+182.254.138.21 2 2 7999 20141214143729
+115.159.68.25 1 1 4076 20141221010754
+95.152.23.111 1 26 166483 20141207174009
+109.190.153.246 66 66 612061 20141221090331
+5.164.113.39 1 32 187489 20141212145220
+115.159.64.163 1 1 4076 20141227172808
+115.159.26.138 1 1 4077 20141217180921
+188.225.33.150 8 8 85512 20141225011821
+85.26.233.200 1 28 171849 20141220152833
+93.100.131.155 1 1 10631 20141217013941
+115.159.68.74 1 1 4076 20141226074642
+93.80.41.73 1 32 187489 20141212145220
+188.32.235.111 1 32 187489 20141212145220
+66.249.93.191 0 10 104852 
+182.254.157.60 2 2 8152 20141221103046
+93.124.43.3 2 2 14934 20141224111729
+93.124.65.54 5 44 1214128 20141214203716
+93.124.89.67 46 1671 17438715 20141217015658
+92.242.35.54 16 16 34034 20141227082522
+89.69.56.179 1 1 10689 20141224054322
+182.254.209.57 1 1 3923 20141207185350
+89.66.70.89 1 1 10667 20141214003933
+66.249.93.197 0 8 33788 
+115.159.63.157 1 1 4076 20141218043234
+37.110.5.48 1 19 61067 20141206090030
+2.93.24.136 1 30 182456 20141207092640
+93.124.37.224 9 250 7699802 20141214050431
+176.193.60.201 1 32 187744 20141219141801
+81.5.117.203 4 4 32043 20141216100648
+213.87.138.69 1 28 171588 20141213095222
+93.124.91.245 3 54 179220 20141221063012
+80.95.45.67 9 225 3955610 20141207182931
+66.249.81.143 0 9 38932 
+176.193.194.216 1 23 242756 20141228221417
+5.164.202.137 1 1 10609 20141228045636
+95.152.60.157 13 78 2310738 20141223005728
+93.124.64.75 91 1639 17599248 20141225185932
+115.159.67.127 1 1 4076 20141220190756
+95.152.61.143 15 83 1984680 20141223101326
+46.38.63.245 1 1 10689 20141215202045
+37.113.14.184 27 66 929524 20141206171256
+80.95.45.24 3 27 827194 20141213152319
+66.249.81.140 0 8 34668 
+95.152.56.70 8 252 2870998 20141211003553
+46.147.110.33 1 23 242756 20141220060406
+93.124.57.98 105 684 7272702 20141216181732
+118.97.95.182 1 1 10667 20141219190655
+93.124.93.161 11 264 3662289 20141218120728
+89.67.166.222 1 1 10667 20141213090606
+182.254.208.101 1 1 3923 20141205015059
+46.188.26.225 1 30 182456 20141207092640
+80.95.45.35 6 64 865904 20141206183022
+176.193.154.170 1 23 242756 20141228221417
+182.254.151.226 1 1 3922 20141206074459
+95.152.8.211 62 2877 16152549 20141216130614
+93.124.15.157 4 38 1021964 20141206014253
+95.152.27.20 1 31 188255 20141224122831
+95.24.231.69 1 23 242756 20141228221417
+93.124.45.58 13 156 4411876 20141205011937
+188.163.17.238 4 4 40506 20141203061139
+148.251.92.106 4 4 42756 20141213212333
+95.152.1.5 56 1001 20964749 20141201215100
+182.254.208.209 1 1 3923 20141204150951
+37.130.226.90 1 1 10686 20141228184945
+212.129.108.18 1 1 10184 20141206040231
+2.93.138.182 1 21 225602 20141206223551
+93.124.114.164 5 147 4177646 20141222032722
+182.254.209.48 1 1 3923 20141204201134
+46.73.158.132 1 20 62679 20141205125823
+95.104.184.154 5 5 52900 20141217184904
+93.124.43.187 25 424 7585887 20141206150809
+95.221.28.183 1 23 242756 20141220060415
+148.251.46.23 1 1 10689 20141212032833
+176.62.80.235 1 1 4076 20141222021434
+37.113.32.165 4 29 171332 20141202002150
+62.109.12.120 16 16 168755 20141231171434
+87.206.220.255 1 1 10220 20141206071739
+176.8.241.42 1 1 10609 20141217060602
+94.140.229.254 1 1 4057 20141225085259
+182.254.158.13 1 1 4076 20141212112454
+82.208.125.149 1 1 4057 20141216201608
+176.14.138.229 1 32 187744 20141219141801
+182.254.157.17 1 1 4076 20141211231032
+80.95.45.224 1 1 409 20141219214821
+115.159.67.103 1 1 4076 20141210213336
+37.113.23.45 2 29 175570 20141209182111
+182.254.141.237 2 2 7999 20141213220652
+115.159.29.104 1 1 4077 20141208220853
+89.169.147.180 1 32 187744 20141229040116
+213.87.139.104 24 371 16871767 20141204203401
+95.152.9.243 5 23 826304 20141219043227
+95.84.163.101 1 7 64449 20141220060408
+95.152.51.189 1 6 4111 20141220124038
+93.124.109.157 3 21 654856 20141205201440
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20141201 433 12893 136354170 10
+20141202 134 1182 25983353 10
+20141203 66 843 17211754 13
+20141204 620 4776 55611619 14
+20141205 392 1239 19549417 7
+20141206 72 659 10805240 15
+20141207 15 383 5114426 8
+20141208 184 3672 34975428 14
+20141209 431 5771 29981261 7
+20141210 321 2325 30757256 11
+20141211 290 1250 12255802 6
+20141212 188 2470 30823281 11
+20141213 25 76 1196687 7
+20141214 21 301 8945072 11
+20141215 393 3898 38984506 9
+20141216 275 4792 41973796 8
+20141217 305 4257 60281129 11
+20141218 217 2715 53100665 8
+20141219 130 1855 36436598 12
+20141220 8 90 740995 8
+20141221 23 74 353230 9
+20141222 134 932 27076213 9
+20141223 134 696 18245000 7
+20141224 158 760 14445150 10
+20141225 189 2238 36071683 6
+20141226 72 485 13743604 4
+20141227 3 3 4385 2
+20141228 6 72 760194 6
+20141229 66 434 10579833 6
+20141230 4 31 196374 3
+20141231 6 54 203740 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 52
+5mn-15mn 9
+2mn-5mn 8
+15mn-30mn 8
+30s-2mn 9
+0s-30s 159
+30mn-1h 20
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/index.php 1810 11590455 178 157
+/publish/avito/public.php 1548 4903502 5 9
+/ 945 12300140 34 41
+/publish/avito/start.php 221 1813597 5 8
+/publish/ 193 276357 1 2
+/publish/bazarpnz/public.php 164 252948 1 4
+/ajax/thisAgent.php 109 48275 1 2
+/ajax/maps.php 106 11125177 0 2
+/myadmin/index.php 66 612061 5 5
+/test/test2.php 32 253548 0 0
+http://www.mafengwo.com/index.php 1 3923 1 1
+/ajax/agentPhone/phoneAgentCheck.php 4 1232 0 0
+/manager/ 1 401 1 1
+/manager/ispmgr 3 1227 2 1
+/publish_test/bazarpnz/public.php 8 27487 0 0
+/pars/ 8 10792 0 0
+http://www.ly.com/index.php 29 116674 29 29
+/publish_test/ 13 17729 1 0
+/pars/parametrs.php 19 20308 0 1
+/phpExcel/read.php 3 1483 0 0
+/publish/avito/ 11 6829 0 0
+/test/test.php 17 5064 1 2
+/ajax/payment/robokassa.php 4 3743 0 0
+END_SIDER

@@ -1,0 +1,35 @@
+* About to connect() to proxy 185.101.68.214 port 8080 (#0)
+*   Trying 185.101.68.214... * connected
+* Connected to 185.101.68.214 (185.101.68.214) port 8080 (#0)
+* Proxy auth using Basic with user 'MiniRUS164853'
+> POST http://bazarpnz.ru/ HTTP/1.1
+Proxy-Authorization: Basic TWluaVJVUzE2NDg1MzpXS0JHT2NkSWVR
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+Host: bazarpnz.ru
+Accept: */*
+Referer: http://bazarpnz.ru/
+Proxy-Connection: Keep-Alive
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Server: QRATOR
+< Date: Fri, 15 Jan 2016 12:17:43 GMT
+< Content-Type: text/html; charset=WINDOWS-1251
+< Transfer-Encoding: chunked
+< Keep-Alive: timeout=15
+< X-Powered-By: PHP/5.3.3-7+squeeze28
+< X-Frame-Options: SAMEORIGIN
+* Added cookie user="44c84b5a1a6ecf02a78adb9dc702ba18" for domain bazarpnz.ru, path /, expire 1484396263
+< Set-Cookie: user=44c84b5a1a6ecf02a78adb9dc702ba18; expires=Sat, 14-Jan-2017 12:17:43 GMT; path=/; domain=.bazarpnz.ru
+* Added cookie PHPSESSID="b3f2b5d568e387cfdbbf16c4f135c6a5" for domain bazarpnz.ru, path /, expire 0
+< Set-Cookie: PHPSESSID=b3f2b5d568e387cfdbbf16c4f135c6a5; path=/
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Connection: Close
+* HTTP/1.1 proxy connection set close!
+< Proxy-Connection: Close
+< 
+* Closing connection #0

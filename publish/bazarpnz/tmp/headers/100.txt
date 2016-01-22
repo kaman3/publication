@@ -1,0 +1,31 @@
+* About to connect() to bazarpnz.ru port 80 (#0)
+*   Trying 178.248.236.27... * connected
+* Connected to bazarpnz.ru (178.248.236.27) port 80 (#0)
+> POST / HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.95 Safari/537.36
+Host: bazarpnz.ru
+Accept: */*
+Referer: http://bazarpnz.ru/
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+
+< HTTP/1.1 200 OK
+< Server: QRATOR
+< Date: Tue, 01 Dec 2015 10:38:07 GMT
+< Content-Type: text/html; charset=WINDOWS-1251
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Keep-Alive: timeout=15
+< X-Powered-By: PHP/5.3.3-7+squeeze26
+< X-Frame-Options: SAMEORIGIN
+* Added cookie user="68582ac6a837ebfb9a90d62cd8598f54" for domain bazarpnz.ru, path /, expire 1480502282
+< Set-Cookie: user=68582ac6a837ebfb9a90d62cd8598f54; expires=Wed, 30-Nov-2016 10:38:02 GMT; path=/; domain=.bazarpnz.ru
+* Added cookie PHPSESSID="05d81eec1e7ac43f5b355f94c7e450fa" for domain bazarpnz.ru, path /, expire 0
+< Set-Cookie: PHPSESSID=05d81eec1e7ac43f5b355f94c7e450fa; path=/
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< 
+* Connection #0 to host bazarpnz.ru left intact
+* Closing connection #0

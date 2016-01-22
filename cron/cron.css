@@ -1,0 +1,36 @@
+.cron-table {
+  width: 100%;
+  border-collapse: separate; /* cellspacing="0" */ 
+  border-spacing: 0; /* cellspacing="0" */ 
+}
+.cron-table tr th,.cron-table tr td {
+  padding: 3px 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+.cron-table tr th {
+  background: #333;
+  color: #fff;
+}
+
+.cron-table tr:nth-child(2n) td {
+  background: #eee;
+}
+
+form {
+  margin-bottom: 0;
+}
+
+.cron-block {
+  margin-bottom: 20px;
+}
+.cron-block * {
+  font-size: 14px;
+}
+.sel-block {
+  margin-bottom: 10px;
+}
+.sel-block label{
+  width: 200px;
+  display: inline-block;
+}

@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# Версия 1.0
+
+CACHE:
+/images/general_page/3.png
+/images/general_page/2.png
+/images/general_page/4.png
+/images/general_page/5.png
+/images/general_page/6.png
+/images/general_page/map.png
+/images/general_page/liner.png
+/images/general_page/liner_top.png
+/images/general_page/gal.png
+/images/general_page/line_bottom.jpg
+/images/general_page/line.jpg
+/images/general_page/line_red.png
+/images/logo_original.png
+
+NETWORK:
+/css/realty/generalPage.css
+/css/screen.css
+/css/ie.css
+/css/main.css
+http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic-ext
+http://fonts.googleapis.com/css?family=Roboto&subset=latin,cyrillic-ext
+http://webfonts.ru/import/ubuntu.css

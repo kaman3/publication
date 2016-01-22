@@ -1,0 +1,32 @@
+* About to connect() to proxy 193.0.129.126 port 1080 (#0)
+*   Trying 193.0.129.126... * connected
+* Connected to 193.0.129.126 (193.0.129.126) port 1080 (#0)
+> POST /add.php?main HTTP/1.1
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Content-Type:multipart/form-data; boundary=----WebKitFormBoundarynvByWVr87ZoWzmC0
+Accept-Language:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cache-Control:max-age=0
+Connection:keep-alive
+Cookie:user=c592368771e0e5c5d2b68f437e271274; PHPSESSID=faa4e635196c48ba8a9d1084613cfd3d;
+Host:bazarpnz.ru
+Referer:http://bazarpnz.ru/add.php?main
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+Content-Length: 0
+
+< HTTP/1.1 200 OK
+< Server: QRATOR
+< Date: Thu, 05 Nov 2015 10:01:29 GMT
+< Content-Type: text/html; charset=WINDOWS-1251
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Keep-Alive: timeout=15
+< X-Powered-By: PHP/5.3.3-7+squeeze26
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< X-Frame-Options: SAMEORIGIN
+< Vary: Accept-Encoding
+< 
+* Connection #0 to host bazarpnz.ru left intact
+* Closing connection #0

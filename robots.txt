@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /scripts/
+Disallow: /test/
+Disallow: /cron/
+Disallow: /publish/
+Disallow: /phpExcel/
+Disallow: /webstat/
+Disallow: /pars/
+Host: rlpnz.ru
+Sitemap: http://rlpnz.ru/sitemap.xml
+
+

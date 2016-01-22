@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/rlpnz.ru/webstat"
+AuthUserFile /var/www/kaman62/data/etc/58472819.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

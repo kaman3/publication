@@ -1,0 +1,99 @@
+*{
+	line-height: 21px;
+	font-size: 14px; 
+	font-family: Calibri;
+	margin: 0;
+	padding: 0;
+}
+.clearfix:before,  .clearfix:after {
+	content: " "; 
+	display: table;
+}
+.clearfix:after {
+	clear: both; visibility: 
+	hidden; 
+	line-height: 0; 
+	height: 0;
+}
+.clearfix {
+	*zoom: 1;
+}
+.clear{
+	clear: both;
+}
+.form{
+	width: 800px; 
+	margin: 50px auto;
+	border: 1px solid #ccc; 
+	padding: 10px;
+	background: #ffe9dc
+}
+.row{
+	margin-bottom: 15px;
+}
+label{
+	width: 200px; 
+	float: left;
+	margin-right: 30px; 
+	text-align: right;
+}
+.field{
+	width: 550px; 
+	float: left;
+}
+textarea,select,input[type="text"],input[type="file"]{
+	width: 100%; 
+	border: 1px solid #ccc; 
+	margin-bottom: 5px;
+	padding-left: 3px;
+}
+textarea{
+	height: 100px;
+}
+span{
+	color: red
+}
+.box_reply{
+    position: absolute; /* Абсолютное позиционирование */
+    width: 280px; /* Ширина слоя в пикселах */
+    height: 180px; /* Высота слоя в пикселах */
+    left: 50%; /* Положение слоя от левого края */
+    top: 50%; /* Положение слоя от верхнего края */
+    margin-left: -150px; /* Отступ слева */
+    margin-top: -100px;	/* Отступ сверху */
+    background: #b6fef1; /* Цвет фона */
+    border: solid 1px #35ceb3; /* Параметры рамки вокруг */
+    padding: 10px; /* Поля вокруг текста */
+    overflow: auto; /* Добавление полосы прокрутки */ 
+    text-align: center;
+    border-radius: 3px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.cloud{
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background: black;
+	z-index: 1000;
+	top: 0;
+	left: 0;
+	opacity: 0.7;
+}
+    .loading{
+    	position: absolute; /* Абсолютное позиционирование */
+	    width: 280px; /* Ширина слоя в пикселах */
+	    height: 150px; /* Высота слоя в пикселах */
+	    left: 50%; /* Положение слоя от левого края */
+	    top: 50%; /* Положение слоя от верхнего края */
+	    margin-left: -150px; /* Отступ слева */
+	    margin-top: -100px;	/* Отступ сверху */
+	    background: #fff; /* Цвет фона */
+	    border: solid 1px #35ceb3; /* Параметры рамки вокруг */
+	    padding: 10px; /* Поля вокруг текста */
+	    overflow: auto; /* Добавление полосы прокрутки */ 
+	    text-align: center;
+	    border-radius: 3px;
+	    display: table-cell;
+	    vertical-align: middle;
+    }

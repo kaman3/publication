@@ -1,0 +1,96 @@
+/* Задаем сброс обтекания */
+.clear {
+    margin-top: -1px;
+    height: 1px;
+    clear:both;
+    zoom: 1;
+}
+/* Slider */
+.slider {
+    /* Ширина контейнера */
+    width: 920px;
+    /* Внешние тступы сверху и снизу */
+    margin: 50px auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* Внутренние отступы для ссылок navy */
+    padding: 0 30px;
+    /* Позиционирование */
+    position: relative;
+}
+/* Двойной клик по кнопкам вперед/назад вызывает выделение всех элементов слайдера,
+поэтому предотвращаем это */
+.slider::-moz-selection { background: transparent; color: #fff; text-shadow: none; }
+.slider::selection { background: transparent; color: #fff; text-shadow: none; }
+
+.slide-list {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    /* Скроем то что выходит за границы */
+    overflow: hidden;
+}
+.slide-wrap {
+    position: relative;
+    left: 0px;
+    top: 0;
+    /* максимально возможная ширина обертки слайдера */
+    width: 10000000px;
+}
+.slide-item {
+    /* Ширина слайда */
+    width: 200px;
+    /* Внутренние отступы */
+    /* Обтекание */
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.slide-title {
+    /* Шрифт */
+    font: bold 16px monospace;
+    /* Указываем, что элемент блочный */
+    display: block;
+}
+/* навигация вперед/назад */
+.navy {
+    /* абсолютное позиционирование */
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    height: 100%;
+    /* ширина элементов */
+    width: 40px;
+    cursor: pointer;
+}
+.prev-slide {
+    left: 0;
+    background: #fff url(/scripts/htmlSlider/img/arrow-left.png) 15px 45% no-repeat;
+
+}
+.next-slide {
+    right: 0;
+    background: #fff url(/scripts/htmlSlider/img/arrow-right.png) 15px 45% no-repeat;
+}
+.navy.disable {
+    background: #dbdbdb;
+}
+/* навигация старт/пауза */
+.auto {
+    width: 7px;
+    height: 11px;
+    cursor: pointer;
+    margin: 10px auto;
+}
+.play {
+    background: url(bg/play.png) center no-repeat;
+}
+.pause {
+    background: url(bg/pause.png) center no-repeat;
+}
+.headerVSlider h2{
+    font-size: 27px;
+    text-align: center;
+    color: #1c6708;
+    margin-top: 10px;
+}

@@ -1,0 +1,104 @@
+.Vwidget{
+ margin: 0;
+ padding: 0;
+ width: 170px;
+}
+ 
+a.up, a.down{
+ display: block;
+ width:32px;
+ height:16px;
+ margin: 0 auto;
+}
+ 
+ a.up{
+  padding-bottom: 2px;
+  background:url(u-button.png);
+ }
+ 
+ a.down {
+  padding-top: 2px;
+  background:url(d-button.png);
+ }
+ 
+.VjCarouselLite{
+ margin: 0;
+ padding: 0;
+}
+ 
+.VjCarouselLite li{
+ overflow: hidden;
+ float: none;
+ display: block;
+ padding: 0;
+ text-align: center;
+}
+ 
+.VjCarouselLite li div{
+ margin: 0 auto;
+ margin-top: 5px;
+ margin-bottom: 5px;
+ padding: 4px;
+ height: 30px;
+ width: 165px;
+ vertical-align: middle;
+ display: table-cell;
+ font-size: 18px;
+ text-align: center;
+}
+.VjCarouselLite ul div span{
+	color: red;
+}
+
+
+.Vwidget2{
+ margin: 0;
+ padding: 0;
+ width: 170px;
+}
+ 
+a.up2, a.down2{
+ display: block;
+ width:32px;
+ height:16px;
+ margin: 0 auto;
+}
+ 
+ a.up2{
+  padding-bottom: 2px;
+  background:url(u-button.png);
+ }
+ 
+ a.down2 {
+  padding-top: 2px;
+  background:url(d-button.png);
+ }
+ 
+.VjCarouselLite2{
+ margin: 0;
+ padding: 0;
+}
+ 
+.VjCarouselLite2 li{
+ overflow: hidden;
+ float: none;
+ display: block;
+ padding: 0;
+ text-align: center;
+}
+ 
+.VjCarouselLite2 li div{
+ margin: 0 auto;
+ margin-top: 5px;
+ margin-bottom: 5px;
+ padding: 4px;
+ height: 30px;
+ width: 165px;
+ vertical-align: middle;
+ display: table-cell;
+ font-size: 18px;
+ text-align: center;
+}
+.VjCarouselLite2 ul div span{
+	color: red;
+}

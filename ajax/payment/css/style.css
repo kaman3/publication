@@ -1,0 +1,53 @@
+body{
+	  margin: 0;
+	  padding: 0;
+	  color: #555;
+	  font-family: 'Roboto Condensed', sans-serif;
+	  background: #dfffeb;
+	}
+	.paymentWindow{
+	  position: fixed; /* Абсолютное позиционирование */
+	  width: 380px; /* Ширина слоя в пикселах */
+	  height: 180px; /* Высота слоя в пикселах */
+	  left: 50%; /* Положение слоя от левого края */
+	  top: 50%; /* Положение слоя от верхнего края */
+	  margin-left: -200px; /* Отступ слева */
+	  margin-top: -100px; /* Отступ сверху */
+	  background: #fff; /* Цвет фона */
+	  border: solid 1px #ccc; /* Параметры рамки вокруг */
+	  padding: 10px; /* Поля вокруг текста */
+	  overflow: auto; /* Добавление полосы прокрутки */ 
+	  z-index: 200;
+	  border-radius: 3px;
+	  color: #333;
+	  text-align: center;
+	  line-height: 26px;
+	  display: table-cell;
+	  vertical-align: middle;
+
+	}
+	  .paymentWindow input[type='submit']{
+         width: 120px;
+         height: 32px;
+         margin-top: 5px;
+         margin-bottom: 5px;
+         border-radius: 3px;
+         border: 1px solid #ccc;
+         cursor: pointer;
+         background: #f4a721;
+         color: #fff;
+         background: -moz-linear-gradient(#ff9c45, #d67a2a);
+         background: -webkit-linear-gradient(#ff9c45, #d67a2a);
+         background: -o-linear-gradient(#ff9c45, #d67a2a);
+         background: linear-gradient(#ff9c45, #d67a2a);
+         border: 1px solid #0a5f2a;
+         font-size: 15px;
+         font-family: 'Roboto Condensed', sans-serif;
+	  }
+	  .paymentWindowText{
+	  	margin-bottom: 20px;
+	  	font-size: 15px;
+	  }
+	  .paymentPeriod select span{
+	  	color: #ccc;
+	  }
